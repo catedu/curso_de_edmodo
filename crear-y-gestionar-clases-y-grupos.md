@@ -1,10 +1,6 @@
 Lo primero que debemos aclarar en este apartado es la diferencia que existe entre **una clase y un grupo**.
 
-
-
 Las _clases_ son el espacio de comunicación y trabajo con nuestros alumnos. Dentro tus clases es posible enviar Notas, Pruebas, Asignaciones, Encuestas y Snapshots a tus alumnos. También permiten el contacto y la información con los padres. Es decir, las clases la forman los alumnos y sus profesores.
-
-
 
 Por el contrario, los _grupos_ son el espacio de comunicación entre compañeros profesores. Permiten compartir experiencias, materiales,…. Por tanto los grupos están formados por profesores.
 
@@ -34,11 +30,7 @@ Una vez creada nuestra primera clase, nos aparecerá una pantalla con el **códi
 
 -O sencillamente podemos copiarlo en la pizarra y que los alumnos lo anoten en sus agendas.
 
-
-
-
-
-
+![](/assets/Codigos.jpg)
 
 Este código que hemos generado es único para nuestra clase y podemos cambiarlo cuando queramos, así como desactivarlo una vez que todos los alumnos de la clase se han inscrito correctamente. Esto lo veremos más adelante.
 
@@ -66,5 +58,5 @@ Una vez que todos nuestros alumnos se han unido a nuestra clase, conviene **bloq
 
 **Tarea.**- Bloquea el código del tu clase creado en Edmodo.
 
- ��VJ�
+
 

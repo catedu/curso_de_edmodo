@@ -1,8 +1,13 @@
 # Summary
 
 * [Indice](README.md)
-* [Introducción](chapter1.md)
-* [Registros y perfiles](registros-y-perfiles.md)
-* [Crear y gestionar clases y grupos](crear-y-gestionar-clases-y-grupos.md)
-* [Herramientas](herramientas.md)
+* [1. Introducción](chapter1.md)
+* [2. Registros y perfiles](registros-y-perfiles.md)
+* [3. Crear y gestionar clases y grupos](crear-y-gestionar-clases-y-grupos.md)
+* [4. Herramientas](herramientas.md)
+* [5. Biblioteca](biblioteca.md)
+* [Aplicaciones Spotlight](aplicaciones-spotlight.md)
+* [Red de compañeros](red-de-companeros.md)
+* [Otros perfiles: Estudiantes y padres](otros-perfiles-estudiantes-y-padres.md)
+* Edmodo en el móvil o tablet
 

@@ -7,7 +7,7 @@
 * [4. Herramientas](herramientas.md)
 * [5. Biblioteca](biblioteca.md)
 * [6. Aplicaciones Spotlight](aplicaciones-spotlight.md)
-* [Red de compañeros](red-de-companeros.md)
+* [7. Red de compañeros](red-de-companeros.md)
 * [Otros perfiles: Estudiantes y padres](otros-perfiles-estudiantes-y-padres.md)
 * Edmodo en el móvil o tablet
 

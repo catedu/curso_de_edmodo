@@ -51,7 +51,9 @@ También es posible unirse a través de la invitación que hará su hijo a trav�
 
 ![](/assets/import36.png)
 
-Una vez en Edmodo los padres tendrán acceso a todos los datos referentes a su hijo/a, así como a mantener contacto mediante mensajería con el o los profesores de su hijo/a. La visión de la pantalla que tienen los padres sería la siguiente:
+Una vez en Edmodo los padres tendrán acceso a todos los datos referentes a su hijo/a, así como a mantener contacto mediante mensajería con el o los profesores de su hijo/a y comprobar los trabajos pendientes y entregados por parte del alumno. Básicamente tendríamos la pestaña _mensajes_ y la pestaña tareas _por entregar_. 
 
+La visión de la pantalla que tienen los padres sería la siguiente:
 
+![](/assets/import39.png)
 

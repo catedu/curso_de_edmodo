@@ -8,6 +8,6 @@
 * [5. Biblioteca](biblioteca.md)
 * [6. Aplicaciones Spotlight](aplicaciones-spotlight.md)
 * [7. Red de compañeros](red-de-companeros.md)
-* [Otros perfiles: Estudiantes y padres](otros-perfiles-estudiantes-y-padres.md)
+* [8. Otros perfiles: Estudiantes y padres](otros-perfiles-estudiantes-y-padres.md)
 * Edmodo en el móvil o tablet
 

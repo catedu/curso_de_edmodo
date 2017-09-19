@@ -6,7 +6,7 @@
 * [3. Crear y gestionar clases y grupos](crear-y-gestionar-clases-y-grupos.md)
 * [4. Herramientas](herramientas.md)
 * [5. Biblioteca](biblioteca.md)
-* [Aplicaciones Spotlight](aplicaciones-spotlight.md)
+* [6. Aplicaciones Spotlight](aplicaciones-spotlight.md)
 * [Red de compañeros](red-de-companeros.md)
 * [Otros perfiles: Estudiantes y padres](otros-perfiles-estudiantes-y-padres.md)
 * Edmodo en el móvil o tablet

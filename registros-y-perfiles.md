@@ -1,4 +1,4 @@
-La plataforma Edmodo nos da tres posibles perfiles básicos a la hora de realizar el registro: Profesor, Estudiante o Padre.
+La plataforma Edmodo nos da tres posibles perfiles básicos a la hora de realizar el registro: **Profesor, Estudiante o Padre**.
 
 ![](/assets/import01.png)
 
@@ -29,6 +29,12 @@ El primer paso que debemos dar al entrar por primera vez en la plataforma es com
 -…
 
 Todo esto podemos cambiarlo en cualquier momento, pero en un primer acceso conviene cumplimentarlo lo más exacto y completo posible pues las sugerencias que nos hará la plataforma se basarán en esos datos, sobre todo centro al que pertenece y materia impartida.
+
+En el caso de la **cuenta de Alumno**, el proceso de alta es muy similar con la excepción de que no va a ser requerido el correo electrónico, con lo que evitamos la exigencia legal de que un menor de 14 años no puede tener correo electrónico. Si necesitará, en cambio, el _código de grupo_ que le proporcionará su profesor y veremos en el siguiente apartado. Con una sola cuenta de Edmodo, el alumno puede unirse a tantas clases como quiera.
+
+![](/assets/import41.png)
+
+En la **cuenta de Padres** deberán registrarse con correo electrónico y contraseña e introducir el código que su hijo le proporcionará para tener acceso a sus datos. Este código de padres también puede ser proporcionado por el profesor.
 
 **Tarea.-** Crea una cuenta de profesor y completa el perfil con tus datos y los de tu centro. Una vez completado avisa a tu tutor para establecer conexión con él a través de Edmodo.
 

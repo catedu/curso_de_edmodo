@@ -58,5 +58,15 @@ Una vez que todos nuestros alumnos se han unido a nuestra clase, conviene **bloq
 
 **Tarea.**- Bloquea el código del tu clase creado en Edmodo.
 
+##### 3.4 Grupos
+
+La gestión y administarción de los grupos se hace de forma parecida a las clases, utilizando para ello el menú que aparece debajo de las clases con la denominación Grupos.
+
+![](/assets/import42.png)
+
+Desde este menú podemos crear un grupo, con lo que obtendremos un código para invitar a compañeros o unirnos a un grupo creado por otro profesor y del que nos habrá proporcionado su código de acceso. Existe una gran cantidad de grupos abiertos a los que poder unirse y tratar temas de interés común para los participantes.
+
+**Tarea**.- Crea un grupo y envíale a tu tutor el código para que se una a él.
+
 
 

@@ -56,6 +56,8 @@ La gestión que podemos hacer de nuestros alumnos se reduce a lo siguiente:
 
 Una vez que todos nuestros alumnos se han unido a nuestra clase, conviene **bloquear el código** de la misma con lo que impediremos que alumnos externos a nuestra clase se unan a él. En cualquier momento si deseásemos incorporar a un nuevo alumno podemos volver a generar un código para permitirle unirse a él.
 
+Desde la opción _Administrar clases_ podemos archivar o eliminar clases creadas e incluso restaurar clases que teníamos archivadas.
+
 **Tarea.**- Bloquea el código del tu clase creado en Edmodo.
 
 ##### 3.4 Grupos
@@ -64,9 +66,9 @@ La gestión y administarción de los grupos se hace de forma parecida a las clas
 
 ![](/assets/import42.png)
 
-Desde este menú podemos crear un grupo, con lo que obtendremos un código para invitar a compañeros o unirnos a un grupo creado por otro profesor y del que nos habrá proporcionado su código de acceso. Existe una gran cantidad de grupos abiertos a los que poder unirse y tratar temas de interés común para los participantes.
+Desde este menú podemos _crear un grupo_, con lo que obtendremos un código para invitar a compañeros o _unirnos a un grupo_ creado por otro profesor y del que nos habrá proporcionado su código de acceso. Existe una gran cantidad de grupos abiertos a los que poder unirse y tratar temas de interés común para los participantes.
+
+La administarción de grupos permite las mismas opciones que la administarción de clases.
 
 **Tarea**.- Crea un grupo y envíale a tu tutor el código para que se una a él.
-
-
 

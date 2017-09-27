@@ -58,7 +58,7 @@ Una vez que todos nuestros alumnos se han unido a nuestra clase, conviene **bloq
 
 Desde la opción _Administrar clases_ podemos archivar o eliminar clases creadas e incluso restaurar clases que teníamos archivadas.
 
-**Tarea.**- Bloquea el código del tu clase creado en Edmodo.
+**Tarea.**- Bloquea el código de tu clase creada en Edmodo para que nadie más pueda unirse a ella.
 
 ##### 3.4 Grupos
 

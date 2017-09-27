@@ -12,7 +12,7 @@
 
 ##### 3.3 Administración de una clase
 
-##### 3.4 Funcionamiento de un grupo
+##### 3.4 Grupos
 
 #### 4.Herramientas
 

@@ -62,7 +62,7 @@ Desde la opción _Administrar clases_ podemos archivar o eliminar clases creadas
 
 ##### 3.4 Grupos
 
-La gestión y administarción de los grupos se hace de forma parecida a las clases, utilizando para ello el menú que aparece debajo de las clases con la denominación Grupos.
+La gestión y administración de los grupos se hace de forma parecida a las clases, utilizando para ello el menú que aparece debajo de las clases con la denominación Grupos.
 
 ![](/assets/import42.png)
 

@@ -41,7 +41,7 @@ Todas las clases a las que pertenezca el alumno aparecerán en la parte izquierd
 
 ![](/assets/import35.png)
 
-**Tarea**.- Con tu cuenta de alumno accede a Edmodo Play einvestiga los recursos y juegos que tines disponibles. Comenta con el tutor la utilidad y cualquier otro aspecto sobre esta herramienta.
+**Tarea**.- Con tu cuenta de alumno accede a Edmodo Play e investiga los recursos y juegos que tienes disponibles. Comenta con el tutor a través de una nota de Edmodo la utilidad y cualquier otro aspecto sobre esta herramienta.
 
 ##### 8.2 Perfil de padres
 
@@ -51,9 +51,11 @@ También es posible unirse a través de la invitación que hará su hijo a trav�
 
 ![](/assets/import36.png)
 
-Una vez en Edmodo los padres tendrán acceso a todos los datos referentes a su hijo/a, así como a mantener contacto mediante mensajería con el o los profesores de su hijo/a y comprobar los trabajos pendientes y entregados por parte del alumno. Básicamente tendríamos la pestaña _mensajes_ y la pestaña tareas _por entregar_. 
+Una vez en Edmodo los padres tendrán acceso a todos los datos referentes a su hijo/a, así como a mantener contacto mediante mensajería con el o los profesores de su hijo/a y comprobar los trabajos pendientes y entregados por parte del alumno. Básicamente tendríamos la pestaña _mensajes_ y la pestaña tareas _por entregar_.
 
 La visión de la pantalla que tienen los padres sería la siguiente:
 
 ![](/assets/import39.png)
+
+Es importante hacer notar que los padres necesitan una única cuenta para tener a todos sus hijos inegrados. Cada hijo que use Edmodo le entregará un código con el que los padres podrán acceder a los datos de sus hijos.
 

@@ -36,10 +36,6 @@ Este código que hemos generado es único para nuestra clase y podemos cambiarlo
 
 Todas nuestras clases nos aparecerán en el menú de la izquierda, identificados con el color que les hayamos asignado y con su nombre correspondiente.
 
-**Tarea.-** Crea una clase y obtén su código correspondiente. Envíale dicho código a tu tutor para que se una a tu clase.
-
-Con un correo diferente al que empleaste para registrarte como profesor, crea una cuenta de alumno y únete a la clase que has creado como profesor. Tu clase estará compuesta ahora por dos alumnos, el tutor y tú con rol de alumno.
-
 ##### 3.3 Administrar clases
 
 Una vez que tenemos creada nuestra clase y tenemos el código asociado a él, se lo damos a nuestros alumnos que deberán registrarse en Edmodo e introducir el código proporcionado para unirse a nuestra clase. Es importante que conozcamos este proceso que van a seguir los alumnos porque en muchos casos nos reclamarán ayuda para darse de alta. Sería bueno hacer todo este proceso en clase bajo la supervisión del profesor.
@@ -58,7 +54,7 @@ Una vez que todos nuestros alumnos se han unido a nuestra clase, conviene **bloq
 
 Desde la opción _Administrar clases_ podemos archivar o eliminar clases creadas e incluso restaurar clases que teníamos archivadas.
 
-**Tarea.**- Bloquea el código de tu clase creada en Edmodo para que nadie más pueda unirse a ella.
+
 
 ##### 3.4 Grupos
 
@@ -70,5 +66,5 @@ Desde este menú podemos _crear un grupo_, con lo que obtendremos un código par
 
 La administarción de grupos permite las mismas opciones que la administarción de clases.
 
-**Tarea**.- Crea un grupo y envíale a tu tutor el código para que se una a él.
+
 

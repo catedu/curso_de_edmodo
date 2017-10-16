@@ -36,5 +36,5 @@ En el caso de la **cuenta de Alumno**, el proceso de alta es muy similar con la 
 
 En la **cuenta de Padres** deberán registrarse con correo electrónico y contraseña e introducir el código que su hijo le proporcionará para tener acceso a sus datos. Este código de padres también puede ser proporcionado por el profesor.
 
-**Tarea.-** Crea una cuenta de profesor y completa el perfil con tus datos y los de tu centro. Una vez completado avisa a tu tutor para establecer conexión con él a través de Edmodo.
+
 

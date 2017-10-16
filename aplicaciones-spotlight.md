@@ -6,8 +6,6 @@ Estas aplicaciones podemos elegirlas por país, nivel, idioma y tema o actividad
 
 Entre las más destacadas y útiles figura el **Calendario**, que viene instalada por defecto y podemos encontrar en la parte derecha de la pantalla. Vamos a verla con mayor profundidad.
 
-
-
 ##### 6.1 Calendario
 
 Para acceder a él sólo debemos clicar en el icono donde figura el calendario, y se nos abrirá en una nueva ventana.
@@ -30,7 +28,7 @@ La creación de una tarea se crea de la misma forma que un evento, con la salved
 
 Las asignaciones que vayamos creando se incorporarán automáticamente al calendario.
 
-**Tarea**.- Crea varios eventos y comprueba que parecen en el calendario. Avisa al tutor de que están creados para que los compruebe.
+**Tarea**.- Crea varios eventos y comprueba que aparecen en el calendario. Avisa al tutor de que están creados para que los compruebe.
 
 ##### 6.2 Otras aplicaciones
 

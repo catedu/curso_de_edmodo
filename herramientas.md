@@ -32,10 +32,6 @@ Por defecto el tiempo para realizarlo es de 60 minutos, pero podemos ajustarlo a
 
 Una vez creada la prueba esta se guardará y la tendremos disponible para el futuro con la posibilidad de hacer modificaciones.
 
-**Tarea**.- Realiza una prueba para tus alumnos que conste de 10 preguntas en las que utilices todos los tipos de preguntas disponibles. Llámala prueba inicial y asígnala para que les aparezca dentro de un día a las 10 de la mañana.
-
-Pasado ese tiempo, entra con tu perfil de alumno en Edmodo y completa la prueba que has asignado.
-
 -**Encuesta**. Esta herramienta es muy útil para recoger información sobre algún tema que involucre a la clase completa, como por ejemplo elegir el tema para el festival de final de curso o el próximo libro que leeremos en clase.
 
 ![](/assets/Encuesta.jpg)
@@ -43,8 +39,6 @@ Pasado ese tiempo, entra con tu perfil de alumno en Edmodo y completa la prueba 
 Para realizarla es muy sencillo, sólo tenemos que decidir la pregunta que vamos a lanzar y a continuación elegir los ítems a valorar. Podemos poner tantos ítems como necesitemos.
 
 Los resultados de la encuesta se nos irán presentando tanto en forma de línea gráfica como porcentaje y número de votos de cada opción.
-
-**Tarea**.- Practica creando diversos tipos de herramientas y jugando con las diferentes opciones que nos ofrece la plataforma.
 
 ##### 4.2 Snapshot
 
@@ -57,8 +51,6 @@ El número de estándares disponibles es realmente extenso y cubre bastantes asp
 ![](/assets/import07.png)
 
 Una vez decididos los estándares a emplear en nuestra prueba, podemos obtener una vista previa de un examen tipo y a continuación asignarlo a nuestros alumnos o guardarlo para asignarlo más adelante. También podemos decidir la duración que les damos para realizar la prueba.
-
-**Tarea**.- Crea algún examen para comprobar el funcionamiento de la herramienta. Varía los estándares predefinidos y añade los que más te interesen. Si no impartes matemáticas o inglés puedes saltarte este apartado.
 
 ##### 4.3 Libro de calificaciones
 
@@ -106,10 +98,6 @@ Es posible en el libro de calificaciones ir separando las notas por trimestre, e
 
 ![](/assets/LibroCalificaciones.jpg)
 
-**Tarea**.- Con tu perfil de profesor asigna a tu clase una tarea relacionada con tu asignatura. Ve a tu perfil de alumno y realízala. Corrígela como profesor y comprueba que se ha añadido correctamente al libro de calificaciones.
-
-Crea una nueva columna para un trabajo externo a Edmodo. Añade manualmente a ese mismo alumno una nota manual de ese trabajo realizado en clase.
-
 ##### 4.4 Insignias
 
 Las **insignias** es otra herramienta que incorpora Edmodo y puede resultar muy motivador para nuestros alumnos. Es una forma sencilla y simpática de reconocerles su buen hacer. La plataforma dispone de una serie de insignias predefinidas, pero podemos crear nuestras propias insignias con la imagen y el argumento que creamos conveniente y que mejor se ajuste a lo que queremos trasmitir a los alumnos.
@@ -128,10 +116,6 @@ Conceder una insignia a un alumno es tan sencillo como entrar en su perfil y en 
 
 Al pinchar en cada insignia figurarán los alumnos a los que esa insignia ha sido concedida. En cualquier momento podemos eliminar una insignia creada por nosotros. Las creadas por Edmodo son permanentes.
 
-**Tarea**.- Crea una insignia en la que el argumento será sabio de la clase y como imagen de la misma utilizaremos la de una persona muy relevante y conocida de nuestra asignatura. Haz una captura de pantalla de la misma y envíasela al tutor.
-
-Asigna la insignia creada a tu alumno de la clase ficticia.
-
 ##### 4.5 Mensajería
 
 Esta nueva funcionalidad de Edmodo nos permite enviar mensajes privados a cualquier estudiante o profesor con el que estemos conectados. Para acceder pulsamos en Mensajería en la parte superior derecha con lo que accedemos a la consola de mensajes.
@@ -145,6 +129,4 @@ Acceso a la consola de mensajería.
 En el recuadro superior escribimos el o los destinatarios y en el recuadro inferior el texto del mensaje. Es posible adjuntar un archivo que se encuentre en nuestro ordenador.
 
 Una vez cumplimentado pulsamos Enviar. En la parte izquierda figuran todos los mensajes enviados y recibidos clasificados por fecha. Para cada alumno o profesor al que hayamos enviado un mensaje, figurará toda la lista de mensajes compartidos a modo de diálogo.
-
-**Tarea**.- A través de la consola de mensajería envía un mensaje a tu tutor comentándole qué tal te ha resultado este apartado y si tienes alguna duda.
 

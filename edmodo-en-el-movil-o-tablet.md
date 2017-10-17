@@ -8,5 +8,5 @@ En la parte inferior de la pantalla tenemos el menú de navegación que nos perm
 
 ![](/assets/import38.png)
 
-**Tarea.**- Instala Edmodo en tu dispositivo móvil y realiza diversas acciones a través de él. Entre ellas manda a tu tutor una nota desde el móvil. Escribe un correo a tu tutor comentando tus impresiones, dudas e ideas sobre Edmodo en el móvil o tablet.
+
 

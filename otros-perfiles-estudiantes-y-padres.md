@@ -41,8 +41,6 @@ Todas las clases a las que pertenezca el alumno aparecerán en la parte izquierd
 
 ![](/assets/import35.png)
 
-**Tarea**.- Con tu cuenta de alumno accede a Edmodo Play e investiga los recursos y juegos que tienes disponibles. Comenta con el tutor a través de una nota de Edmodo la utilidad y cualquier otro aspecto sobre esta herramienta.
-
 ##### 8.2 Perfil de padres
 
 Tener a los padres en Edmodo puede ser de gran utilidad para mantenerlos informados en todo momento del avance de su hijo y como vía de comunicación para cualquier tipo de incidencia. Para que unos padres puedan unirse a Edmodo, deben crearse una cuenta de padres en la plataforma con el código que aperece en la parte derecha del perfil de su hijo.

@@ -1,6 +1,5 @@
 # Summary
 
-* [Indice](README.md)
 * [Objetivos y contenidos](objetivos-y-contenidos.md)
 * [1. Introducción](chapter1.md)
 * [2. Registros y perfiles](registros-y-perfiles.md)

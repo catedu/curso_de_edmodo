@@ -10,5 +10,3 @@
 * [6. Aplicaciones Spotlight](aplicaciones-spotlight.md)
 * [7. Red de compañeros](red-de-companeros.md)
 * [8. Otros perfiles: Estudiantes y padres](otros-perfiles-estudiantes-y-padres.md)
-* Objetivos y contenidos
-

@@ -11,4 +11,5 @@
 * [7. Red de compañeros](red-de-companeros.md)
 * [8. Otros perfiles: Estudiantes y padres](otros-perfiles-estudiantes-y-padres.md)
 * [9 Edmodo en móvil o tablet](9-edmodo-en-movil-o-tablet.md)
+* [Créditos](creditos.md)
 

@@ -36,6 +36,10 @@ Este código que hemos generado es único para nuestra clase y podemos cambiarlo
 
 Todas nuestras clases nos aparecerán en el menú de la izquierda, identificados con el color que les hayamos asignado y con su nombre correspondiente.
 
+Podemos bloquear la admisión del grupo, entonces si a alguien le hemos enviado un código, necesitará nuestra aprobación:
+
+![](/assets/bloqueargrupo.jpg)
+
 ##### 3.3 Administrar clases
 
 Una vez que tenemos creada nuestra clase y tenemos el código asociado a él, se lo damos a nuestros alumnos que deberán registrarse en Edmodo e introducir el código proporcionado para unirse a nuestra clase. Es importante que conozcamos este proceso que van a seguir los alumnos porque en muchos casos nos reclamarán ayuda para darse de alta. Sería bueno hacer todo este proceso en clase bajo la supervisión del profesor.
@@ -54,8 +58,6 @@ Una vez que todos nuestros alumnos se han unido a nuestra clase, conviene **bloq
 
 Desde la opción _Administrar clases_ podemos archivar o eliminar clases creadas e incluso restaurar clases que teníamos archivadas.
 
-
-
 ##### 3.4 Grupos
 
 La gestión y administración de los grupos se hace de forma parecida a las clases, utilizando para ello el menú que aparece debajo de las clases con la denominación Grupos.
@@ -65,6 +67,4 @@ La gestión y administración de los grupos se hace de forma parecida a las clas
 Desde este menú podemos _crear un grupo_, con lo que obtendremos un código para invitar a compañeros o _unirnos a un grupo_ creado por otro profesor y del que nos habrá proporcionado su código de acceso. Existe una gran cantidad de grupos abiertos a los que poder unirse y tratar temas de interés común para los participantes.
 
 La administarción de grupos permite las mismas opciones que la administarción de clases.
-
-
 

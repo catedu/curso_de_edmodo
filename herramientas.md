@@ -42,15 +42,17 @@ Los resultados de la encuesta se nos irán presentando tanto en forma de línea 
 
 ##### 4.2 Snapshot
 
-Una de las últimas actualizaciones de la plataforma Edmodo es la herramienta **Snapshot** y, aunque resulta realmente útil e interesante para los profesores de Matemáticas y Lengua inglesa, tiene la desventaja de que sólo está disponible en inglés, así que comentaremos brevemente en que consiste y como operar con ella pero no será obligatorio su uso para cumplir el curso de Edmodo.
+ANULAMOS ESTE CONTENIDO pues desde 30/6/18 han quitado esta característica. [Ver anuncio](https://support.edmodo.com/hc/en-us/articles/360005163394-Snapshot-Removal-FAQs) 
 
-En pocas palabras se trata de un generador de exámenes en la que nosotros decidimos los estándares a emplear en el mismo y la herramienta Snapshot nos genera las preguntas que se ajustan a los mismos. Para cada alumno genera preguntas similares pero no iguales.
+~~Una de las últimas actualizaciones de la plataforma Edmodo es la herramienta **Snapshot** y, aunque resulta realmente útil e interesante para los profesores de Matemáticas y Lengua inglesa, tiene la desventaja de que sólo está disponible en inglés, así que comentaremos brevemente en que consiste y como operar con ella pero no será obligatorio su uso para cumplir el curso de Edmodo.~~
 
-El número de estándares disponibles es realmente extenso y cubre bastantes aspectos de los tratados en todos los cursos de la enseñanza obligatoria.
+E~~n pocas palabras se trata de un generador de exámenes en la que nosotros decidimos los estándares a emplear en el mismo y la herramienta Snapshot nos genera las preguntas que se ajustan a los mismos. Para cada alumno genera preguntas similares pero no iguales.~~
+
+~~El número de estándares disponibles es realmente extenso y cubre bastantes aspectos de los tratados en todos los cursos de la enseñanza obligatoria.~~
 
 ![](/assets/import07.png)
 
-Una vez decididos los estándares a emplear en nuestra prueba, podemos obtener una vista previa de un examen tipo y a continuación asignarlo a nuestros alumnos o guardarlo para asignarlo más adelante. También podemos decidir la duración que les damos para realizar la prueba.
+~~Una vez decididos los estándares a emplear en nuestra prueba, podemos obtener una vista previa de un examen tipo y a continuación asignarlo a nuestros alumnos o guardarlo para asignarlo más adelante. También podemos decidir la duración que les damos para realizar la prueba.~~
 
 ##### 4.3 Libro de calificaciones
 

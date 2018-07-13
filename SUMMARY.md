@@ -12,4 +12,5 @@
 * [8. Otros perfiles: Estudiantes y padres](otros-perfiles-estudiantes-y-padres.md)
 * [9 Edmodo en móvil o tablet](9-edmodo-en-movil-o-tablet.md)
 * [Créditos](creditos.md)
+* [10 10 modos de utilizar Edmodo](10-10-modos-de-utilizar-edmodo.md)
 

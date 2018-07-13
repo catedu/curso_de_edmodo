@@ -11,6 +11,7 @@
 * [7. Red de compañeros](red-de-companeros.md)
 * [8. Otros perfiles: Estudiantes y padres](otros-perfiles-estudiantes-y-padres.md)
 * [9 Edmodo en móvil o tablet](9-edmodo-en-movil-o-tablet.md)
+* [10 20 modos de utilizar Edmodo](10-10-modos-de-utilizar-edmodo.md)
 * [Créditos](creditos.md)
-* [10 10 modos de utilizar Edmodo](10-10-modos-de-utilizar-edmodo.md)
+
 

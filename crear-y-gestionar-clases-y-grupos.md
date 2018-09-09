@@ -59,7 +59,7 @@ Una vez que todos nuestros alumnos se han unido a nuestra clase, conviene **bloq
 Desde la opción _Administrar clases_ podemos archivar o eliminar clases creadas e incluso restaurar clases que teníamos archivadas.
 
 ##### 3.4 Eliminar clase
-Si queremos eliminar una clase, entramos en configuración avanzada:
+Si queremos eliminar una clase, entramos en **configuración avanzada**:
 
 ![](/assets/2018-09-08 09_18_34-MiClase _ Edmodo.jpg)
 

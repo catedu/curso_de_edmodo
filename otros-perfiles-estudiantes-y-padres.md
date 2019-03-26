@@ -48,11 +48,15 @@ Al entrar salen muchos recursos, pero la mayoría son simples enlaces a otras pl
 
 ##### 8.2 Perfil de padres
 
-Tener a los padres en Edmodo puede ser de gran utilidad para mantenerlos informados en todo momento del avance de su hijo y como vía de comunicación para cualquier tipo de incidencia. Para que unos padres puedan unirse a Edmodo, deben crearse una cuenta de padres en la plataforma con el código que aperece en la parte derecha del perfil de su hijo.
+Tener a los padres en Edmodo puede ser de gran utilidad para mantenerlos informados en todo momento del avance de su hijo y como vía de comunicación para cualquier tipo de incidencia. Para que unos padres puedan unirse a Edmodo, deben crearse una cuenta de padres en la plataforma con el código que aparece en la parte derecha del perfil de su hijo.
 
 También es posible unirse a través de la invitación que hará su hijo a través de la pestaña invitar, que generará un correo electrónico que permitirá unirse al padre.
 
 ![](/assets/import36.png)
+
+También como profesor puedes invitar a un padre, simplemente en el perfil del alumno en **conectar con el familiar**:
+
+![](/assets/invitarpadre.jpg)
 
 Una vez en Edmodo los padres tendrán acceso a todos los datos referentes a su hijo/a, así como a mantener contacto mediante mensajería con el o los profesores de su hijo/a y comprobar los trabajos pendientes y entregados por parte del alumno. Básicamente tendríamos la pestaña _mensajes_ y la pestaña tareas _por entregar_.
 

@@ -16,28 +16,33 @@ Es interesante conocer el perfil de estudiantes porque será el que verán nuest
 
 ![](/assets/import33.png)
 
--**Edmodo play**: Esta es una nueva funcionalidad de Edmodo que permite acceder a juegos de preguntas y respuestas con las que probar tus conocimientos con desafíos en Matemáticas, Ciencias, Historia de los Estados Unidos e Inglés: Lengua y Literatura. Sólo está disponible en inglés.
+-**Edmodo Spotligh**: Esta funcionalidad se encuentra en el icono que parece un kioslo de la derecha con el perfil de estudiante
 
-Para acceder basta seguir los siguientes pasos:
+![](/assets/edmodospotlight.jpg)
 
-* Inicia sesión en Edmodo.
-* Haz clic en el icono Play en la parte superior.
-* Haz clic en cualquiera de las notificaciones.
-* Esto te llevará a una pregunta de Play.
-* Para ir a la página principal, haz clic en "Edmodo Play Beta" en la parte superior izquierda.
+Al entrar salen muchos recursos, pero la mayoría son simples enlaces a otras plataformas que para usarlas, el alumno tendría que abrirse una cuenta de usuario, con la desventaja que con menos de 16 años no es legal tener una cuenta de email, al menos que sea la del centro.
 
+-**Edmodo play**: YA NO ESTÁ DISPONIBLE ~~Esta es una nueva funcionalidad de Edmodo que permite acceder a juegos de preguntas y respuestas con las que probar tus conocimientos con desafíos en Matemáticas, Ciencias, Historia de los Estados Unidos e Inglés: Lengua y Literatura. Sólo está disponible en inglés.~~
+
+~~Para acceder basta seguir los siguientes pasos:~~
+
+* ~~Inicia sesión en Edmodo.~~
+* ~~Haz clic en el icono Play en la parte superior.~~
+* ~~Haz clic en cualquiera de las notificaciones.~~
+* ~~Esto te llevará a una pregunta de Play.~~
+
+~~Para ir a la página principal, haz clic en "Edmodo Play Beta" en la parte superior izquierda.~~
 ![](/assets/import34.png)
 
-Actualmente hay 9 desafíos disponibles en Play, aunque se irán ampliando:
+~~Actualmente hay 9 desafíos disponibles en Play, aunque se irán ampliando:~~
+* ~~Matemáticas - 8º curso, 10º curso y 12º curso~~
+* ~~Ciencias - escuela secundaria y bachillerato~~
+* ~~Historia de los Estados Unidos – bachillerato~~
+* ~~Inglés: Lengua y Literatura - escuela primaria, secundaria y bachillerato~~
 
-* Matemáticas - 8º curso, 10º curso y 12º curso
-* Ciencias - escuela secundaria y bachillerato
-* Historia de los Estados Unidos – bachillerato
-* Inglés: Lengua y Literatura - escuela primaria, secundaria y bachillerato
+~~Así mismo en la parte derecha tenemos el Daily Teaser que es una divertida cuestión de trivial para cada día. ¡Recibes una pregunta única todos los días! Puedes ganar 5 puntos por responder correctamente, pero incluso si respondes incorrectamente, todavía ganas 1 punto por intentarlo.~~
 
-Así mismo en la parte derecha tenemos el Daily Teaser que es una divertida cuestión de trivial para cada día. ¡Recibes una pregunta única todos los días! Puedes ganar 5 puntos por responder correctamente, pero incluso si respondes incorrectamente, todavía ganas 1 punto por intentarlo.
-
-Todas las clases a las que pertenezca el alumno aparecerán en la parte izquierda de la pantalla. Desde este menú también podrá unirse a nuevas clases cuando el profesor le proporciones el código correspondiente.
+~~Todas las clases a las que pertenezca el alumno aparecerán en la parte izquierda de la pantalla. Desde este menú también podrá unirse a nuevas clases cuando el profesor le proporciones el código correspondiente.~~~~
 
 ![](/assets/import35.png)
 

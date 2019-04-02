@@ -149,7 +149,7 @@ Pues depende... según nuestro criterio (totalmente criticable), si entramos en 
 ![](/assets/edpuzzle1.jpg)
 
 ##6.8.- Me ha gustado eso de compartir contenidos, pero... ¿Puedo crear uno y compartirlo en vez de compartir uno creado por otra persona?
-Si, por supuesto pero se va de los objetivos de este curso. Por ejemplo si te interesa crear un recurso en Edmodo te recomendamos que visites:  https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/edpuzzle.html
+Si, por supuesto pero se va de los objetivos de este curso. Por ejemplo si te interesa crear un recurso en **EDPuzzle** te recomendamos que visites:  https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/edpuzzle.html
 
 
 

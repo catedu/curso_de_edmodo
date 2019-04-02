@@ -112,7 +112,7 @@ De esta manera invitamos a los alumnos a usar y experimentar EdPuzzle
 
 ##6.6 No quiero que los alumnos usen de manera genérica una App sino quiero que usen un recurso concreto de esa App
 
-Es lo más frecuente, es decir yo encuentro un contenido interesante en Edpuzzle (o en cualquier otra página) y quiero que mis alumnos lo utilicen. Por ejemplo entro en https://edpuzzle.com busco por ejemplo *Arduino* encuentro un recurso interesante que quiero que lo vean mis alumnos, luego pulso en *ver*
+Es lo más frecuente, es decir yo encuentro un contenido interesante en cualquier página, y quiero que mis alumnos lo utilicen. Por ejemplo entro en https://edpuzzle.com busco por ejemplo *Arduino* encuentro un contenido interesante que quiero que lo vean mis alumnos, luego pulso en *ver*
 
 ![](/assets/edpuzzle8.jpg)
 
@@ -147,6 +147,11 @@ Pues depende... según nuestro criterio (totalmente criticable), si entramos en 
 * *Repositorios genéricos* de contenidos como el que hemos visto EdPuzzle, entonces ** lo recomendable es 6.6 compartir un enlace específico de ese repositorio** pues queremos que no se dispersen sino que visiten un contenido específico (en el ejemplo 6.6 anterior ese vídeo concreto de Arduino).
 
 ![](/assets/edpuzzle1.jpg)
+
+##6.8.- Me ha gustado eso de compartir contenidos, pero... ¿Puedo crear uno y compartirlo en vez de compartir uno creado por otra persona?
+Si, por supuesto pero se va de los objetivos de este curso. Por ejemplo si te interesa crear un recurso en Edmodo te recomendamos que visites:  https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/edpuzzle.html
+
+
 
 
 

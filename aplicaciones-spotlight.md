@@ -90,25 +90,69 @@ Y seleccionamos por ejemplo, EdPuzzle:
 Vemos que podemos hacer:
 
 * Usar App es decir usar esta aplicación diréctamente saltando a la página propia de esta aplicación.
-* **Agregarlo a nuestra biblioteca** es la que vemos más intereante
+* **Agregarlo a nuestra biblioteca** es la que vemos más interesante
 * *colección particular* que entraría a formar parte de nuestros favoritos
-* Asignar App al grupo, y lo que pasaría es que los alumnos lo tendrían en su biblioteca particular.
+* Asignar *App al grupo*, y lo que pasaría es que los alumnos de la clase lo tendrían en su biblioteca particular.
 
 Vamos a decidir Agregar a la biblioteca:
 
 ![](/assets/edpuzzle2.jpg)
 
-Vamos a nuestra clase, y le asignamos una prueba desde nuestra biblioteca:
+Vamos a nuestra clase, y creamos un nuevo mensaje con un recurso desde nuestra biblioteca:
 
-![](/assets/edpuzzle3.jpg)
+![](/assets/edpuzzle-edmodo.jpg)
 
 Elegimos el Edpuzzle que hemos incorporado a nuestra biblioteca
 
 ![](/assets/EdPuzzle4.jpg)
 
-Nos fijamos que se ha añadido, la clase es la correcta, rellenamos los campos de título, fecha de entrega, enunciado... y le damos a **Enviar**.
+De esta manera invitamos a los alumnos a usar y experimentar EdPuzzle
 
-![](/assets/edpuzzle6.jpg)
+![](/assets/edmodo15.jpg)
+
+##6.6 No quiero que los alumnos usen de manera genérica una App sino quiero que usen un recurso concreto de esa App
+
+Es lo más frecuente, es decir yo encuentro un contenido interesante en Edpuzzle (o en cualquier otra página) y quiero que mis alumnos lo utilicen. Por ejemplo entro en https://edpuzzle.com busco por ejemplo *Arduino* encuentro un recurso interesante que quiero que lo vean mis alumnos, luego pulso en *ver*
+
+![](/assets/edpuzzle8.jpg)
+
+En la siguiente pantalla *Compartir*:
+
+![](/assets/edmodo9.jpg)
+
+>Le podría dar a Copiar y Editar y podría editar las preguntas, quitar, añadir....
+
+Le doy al **enlace público** (gracias a que el autor lo ha publicado como Public) * o también al código embebido, pero a veces no funciona por lo que es recomendable el enlace*.
+
+
+![](/assets/edpuzzle9.jpg)
+
+
+Y vamos a **Edmodo** a **mi clase**, y añado **un mensaje** a la clase con **un link** pegando el código anterior *puede ser el link o puede ser el código embebido pero tal y como hemos dicho, a veces no funciona, luego el link*
+
+!![](/assets/edmodo13.jpg)
+
+Y queda en clase muy bien: 
+
+![](/assets/Edpuzzle14.jpg)
+
+>**Consejo**: En estos casos que queremos que hagan una actividad concreta, recomendamos en vez de **Mensaje** hacerlo como **Asignación** la diferencia es que se hace un seguimiento y se asigna una fecha límite, con lo cual podemos ver quien ha visitado el enlace y quien no.
+
+##6.7.- ¿Cuando utilizamos un método u otro?
+Es decir, cuando interesa que utilicemos compartir un recurso en la biblioteca de Spotlight o cuando interesa asignar un recurso concreto de Spotlight
+
+Pues depende... según nuestro criterio (totalmente criticable), si entramos en Spotlight vemos que hay aplicaciones tipo :
+
+* *Juegos, experimentación, etc.. * entonces lo que interesa es compartir ese recurso para que nuestros alumnos lo experimenten, por ejemplo en la siguiente imagen los tres primeros. Entonces **lo recomendable es utilizar el método 6.5 compartir el recurso**.
+* *Repositorios genéricos* de contenidos como el que hemos visto EdPuzzle, entonces ** lo recomendable es 6.6 compartir un enlace específico de ese repositorio** pues queremos que no se dispersen sino que visiten un contenido específico (en el ejemplo 6.6 anterior ese vídeo concreto de Arduino).
+
+![](/assets/edpuzzle1.jpg)
+
+
+
+
+
+
 
 
 

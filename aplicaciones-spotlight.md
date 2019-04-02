@@ -106,7 +106,7 @@ Elegimos el Edpuzzle que hemos incorporado a nuestra biblioteca
 
 ![](/assets/EdPuzzle4.jpg)
 
-De esta manera invitamos a los alumnos a usar y experimentar EdPuzzle
+De esta manera invitamos a los alumnos a usar y experimentar EdPuzzle. Así queda en clase:
 
 ![](/assets/edmodo15.jpg)
 
@@ -132,7 +132,7 @@ Y vamos a **Edmodo** a **mi clase**, y añado **un mensaje** a la clase con **un
 
 !![](/assets/edmodo13.jpg)
 
-Y queda en clase muy bien: 
+Y así lo ven los alumnos: 
 
 ![](/assets/Edpuzzle14.jpg)
 

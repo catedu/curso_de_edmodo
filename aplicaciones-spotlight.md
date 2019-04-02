@@ -1,3 +1,4 @@
+# 6 Aplicaciones Spotlight
 Edmodo dispone de una herramienta **Edmodo Spotlight** en la que encontrar cientos de aplicaciones que pueden completar y facilitar muchas de las tareas que nos propongamos emprender con nuestros alumnos. La gran mayoría de las aplicaciones están realizadas por los propios profesores. Es un lugar para compartir, recopilar, valorar y descubrir recursos útiles para tus estudiantes y para la enseñanza. Hay aplicaciones de pago y gratuitas, aunque actualmente desde España sólo están disponibles las aplicaciones gratuitas.
 
 Estas aplicaciones podemos elegirlas por país, nivel, idioma y tema o actividad que nos interese.
@@ -6,7 +7,7 @@ Estas aplicaciones podemos elegirlas por país, nivel, idioma y tema o actividad
 
 Entre las más destacadas y útiles figura el **Calendario**, que viene instalada por defecto y podemos encontrar en la parte derecha de la pantalla. Vamos a verla con mayor profundidad.
 
-##### 6.1 Calendario
+## 6.1 Calendario
 
 Para acceder a él sólo debemos clicar en el icono donde figura el calendario, y se nos abrirá en una nueva ventana.
 
@@ -30,9 +31,11 @@ Las asignaciones que vayamos creando se incorporarán automáticamente al calend
 
 **Tarea**.- Crea varios eventos y comprueba que aparecen en el calendario. Avisa al tutor de que están creados para que los compruebe.
 
-##### 6.2 Otras aplicaciones
+##6.2 Office Online
 
 Otras dos aplicaciones que viene por defecto en nuestra consola son Snapshot, de la que ya hemos hablado y Office Online. Esta última puede sernos de mucha utilidad ya que nos permite editar documentos de Office directamente online desde la plataforma Edmodo. Cualquier cambio que hagamos en ellos se guardará directamente en la biblioteca.
+
+##6.3 Otras aplicaciones
 
 Para acceder a otras aplicaciones de las que disponemos en Edmodo, debemos clicar en la pestaña Spotlight, donde nos aparecerán todas las aplicaciones disponibles clasificadas por país, nivel, idioma y tema o asignatura como dijimos al principio.
 
@@ -46,7 +49,7 @@ Una vez que encuentre alguna de mi interés debo fijarme en el tipo de archivo e
 
 **Tarea**.- Investiga un poco las aplicaciones por el tema o temas que más te interesen e instala alguna de ellas para probarlas. Asígnala a la clase que tienes creada y avisa al tutor para su comprobación.
 
-##### 6.3 Aplicaciones Edmodo Conect
+## 6.4 Aplicaciones Edmodo Conect
 
 Edmodo Connect permite a los profesores y estudiantes conectarse a aplicaciones de terceros \(aplicaciones móviles y sitios web creados por otras empresas\) utilizando sus datos de acceso a Edmodo \(usuario y contraseña\). Con Edmodo Connect, los profesores y alumnos pueden acceder a múltiples contenidos utilizando la identificación en Edmodo y eliminando la necesidad de administrar una serie de identificadores en cada aplicación. Acceder a las aplicaciones de Edmodo Connect se puede realizar a través de Spotlight. A continuación, incluyo una lista de algunas de las aplicaciones de terceros más populares y su descripción que han habilitado en Edmodo Connect.
 
@@ -73,4 +76,41 @@ Permite a cualquiera publicar rápidamente cualquier cosa con una sola página. 
 _Zaption_
 
 Está revolucionando el vídeo en línea para la educación. Los profesores, los formadores y los editores de contenido utilizan la aplicación web intuitiva de Zaption para agregar rápidamente imágenes, textos, cuestionarios y discusiones a videos existentes de YouTube, Vimeo y bibliotecas de vídeo privadas. El resultado es un aprendizaje interactivo que transforma el video de una actividad pasiva a una atractiva experiencia activa. Con la analítica de Zaption, los profesores obtienen retroalimentación inmediata sobre cómo los estudiantes interactúan con el contenido y entienden los conceptos clave.
+
+##6.5 Como asigno una APP a mi clase
+
+Entramos en Spotlight
+
+![](/assets/import27.png)
+
+Y seleccionamos por ejemplo, EdPuzzle:
+
+![](/assets/edpuzzle1.jpg)
+
+Vemos que podemos hacer:
+
+* Usar App es decir usar esta aplicación diréctamente saltando a la página propia de esta aplicación.
+* **Agregarlo a nuestra biblioteca** es la que vemos más intereante
+* *colección particular* que entraría a formar parte de nuestros favoritos
+* Asignar App al grupo, y lo que pasaría es que los alumnos lo tendrían en su biblioteca particular.
+
+Vamos a decidir Agregar a la biblioteca:
+
+![](/assets/edpuzzle2.jpg)
+
+Vamos a nuestra clase, y le asignamos una prueba desde nuestra biblioteca:
+
+![](/assets/edpuzzle3.jpg)
+
+Elegimos el Edpuzzle que hemos incorporado a nuestra biblioteca
+
+![](/assets/EdPuzzle4.jpg)
+
+Nos fijamos que se ha añadido, la clase es la correcta, rellenamos los campos de título, fecha de entrega, enunciado... y le damos a **Enviar**.
+
+![](/assets/edpuzzle6.jpg)
+
+
+
+
 

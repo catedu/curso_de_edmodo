@@ -1,9 +1,9 @@
 Autor: Gabriel Sánchez Carbajo
+
 Colaboradores:
+
 {% for item in book.collaborators %}
-
 {{item.name}}: {{item.edited}}
-
 {% endfor %}
 
 

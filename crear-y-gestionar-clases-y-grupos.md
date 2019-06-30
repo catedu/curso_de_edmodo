@@ -75,5 +75,9 @@ La gestión y administración de los grupos se hace de forma parecida a las clas
 
 Desde este menú podemos _crear un grupo_, con lo que obtendremos un código para invitar a compañeros o _unirnos a un grupo_ creado por otro profesor y del que nos habrá proporcionado su código de acceso. Existe una gran cantidad de grupos abiertos a los que poder unirse y tratar temas de interés común para los participantes.
 
-La administarción de grupos permite las mismas opciones que la administarción de clases.
+La administración de grupos permite las mismas opciones que la administración de clases.
+
+Por ejemplo para que alguien se una a nuestro grupo hay que enviarle el enlace que se indica aquí:
+
+![](/assets/2019-06-30 15_52_07-Window.png)
 

@@ -69,6 +69,12 @@ entrando en **borrar**
 
 ##### 3.5 Grupos
 
+Tenemos dos conceptos:
+* **CLASES** orientado a grupo de **alumnos**, actividades, evaluación...
+* **GRUPOS** orientado a grupo de **profesores** que comparten material, intereses, etc..
+
+![](/assets/gruposyclases.png)
+
 La gestión y administración de los grupos se hace de forma parecida a las clases, utilizando para ello el menú que aparece debajo de las clases con la denominación Grupos.
 
 ![](/assets/import42.png)

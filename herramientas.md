@@ -1,4 +1,4 @@
-##### 4.1 Nota, asignación, prueba y encuesta.
+## 4.1 Nota, asignación, prueba y encuesta.
 
 La plataforma Edmodo es básicamente una plataforma de comunicación con nuestros alumnos e incluso con los padres de nuestros alumnos y otros profesores. Para poder gestionar adecuadamente esta comunicación dispone de una serie de herramientas que utilizaremos según la necesidad de cada momento. Para acceder a las opciones que detallamos a continuación debemos entrar en nuestra clase y aparecerán diversas pestañas con las opciones: Nota, Asignación, Prueba, Encuesta y Snapshot.
 
@@ -40,21 +40,25 @@ Para realizarla es muy sencillo, sólo tenemos que decidir la pregunta que vamos
 
 Los resultados de la encuesta se nos irán presentando tanto en forma de línea gráfica como porcentaje y número de votos de cada opción.
 
-##### 4.2 Snapshot
+## 4.2 Calendario
 
-ANULAMOS ESTE CONTENIDO pues desde 30/6/18 han quitado esta característica. [Ver anuncio](https://support.edmodo.com/hc/en-us/articles/360005163394-Snapshot-Removal-FAQs) 
+Podemos crear eventos en nuestro calendario:
 
-~~Una de las últimas actualizaciones de la plataforma Edmodo es la herramienta **Snapshot** y, aunque resulta realmente útil e interesante para los profesores de Matemáticas y Lengua inglesa, tiene la desventaja de que sólo está disponible en inglés, así que comentaremos brevemente en que consiste y como operar con ella pero no será obligatorio su uso para cumplir el curso de Edmodo.~~
+![](/assets/iconocalendario.png)
 
-E~~n pocas palabras se trata de un generador de exámenes en la que nosotros decidimos los estándares a emplear en el mismo y la herramienta Snapshot nos genera las preguntas que se ajustan a los mismos. Para cada alumno genera preguntas similares pero no iguales.~~
+Aparece una agenda donde podemos poner nuestros propios eventos, incluso eventos que sean para "Algún día" como recordatorio:
 
-~~El número de estándares disponibles es realmente extenso y cubre bastantes aspectos de los tratados en todos los cursos de la enseñanza obligatoria.~~
+![](/assets/planificador.png)
 
-![](/assets/import07.png)
+Si queremos crear un evento para una fecha determinada, nos acercamos al icono +
 
-~~Una vez decididos los estándares a emplear en nuestra prueba, podemos obtener una vista previa de un examen tipo y a continuación asignarlo a nuestros alumnos o guardarlo para asignarlo más adelante. También podemos decidir la duración que les damos para realizar la prueba.~~
+![](/assets/martes.png)
 
-##### 4.3 Libro de calificaciones
+Y puedes asignarlo a una clase específica, grupo, etc.. si no lo asignas a nadie, queda como un evento privado que sólo tú veras.
+
+![](/assets/evento.png)
+
+## 4.3 Libro de calificaciones
 
 El libro de calificaciones es una interesante herramienta que nos va a permitir hacer un seguimiento del avance de nuestros alumnos de una forma cómoda y segura. Las calificaciones de las pruebas y tareas que asignemos a través de Edmodo se incorporarán de manera automática, pero otras calificaciones externas podemos incluirlas nosotros de forma manual.
 
@@ -100,7 +104,7 @@ Es posible en el libro de calificaciones ir separando las notas por trimestre, e
 
 ![](/assets/LibroCalificaciones.jpg)
 
-##### 4.4 Insignias
+## 4.4 Insignias
 
 Las **insignias** es otra herramienta que incorpora Edmodo y puede resultar muy motivador para nuestros alumnos. Es una forma sencilla y simpática de reconocerles su buen hacer. La plataforma dispone de una serie de insignias predefinidas, pero podemos crear nuestras propias insignias con la imagen y el argumento que creamos conveniente y que mejor se ajuste a lo que queremos trasmitir a los alumnos.
 
@@ -118,7 +122,7 @@ Conceder una insignia a un alumno es tan sencillo como entrar en su perfil y en 
 
 Al pinchar en cada insignia figurarán los alumnos a los que esa insignia ha sido concedida. En cualquier momento podemos eliminar una insignia creada por nosotros. Las creadas por Edmodo son permanentes.
 
-##### 4.5 Mensajería
+## 4.5 Mensajería
 
 Esta nueva funcionalidad de Edmodo nos permite enviar mensajes privados a cualquier estudiante o profesor con el que estemos conectados. Para acceder pulsamos en Mensajería en la parte superior derecha con lo que accedemos a la consola de mensajes.
 

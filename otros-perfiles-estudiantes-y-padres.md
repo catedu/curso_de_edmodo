@@ -2,7 +2,7 @@
 
 Es interesante conocer el perfil de estudiantes porque será el que verán nuestros alumnos y en mas de una ocasión nos formularán preguntas de cómo funciona esto o aquello y convendrá tener claro de que disponen en su perfil. La apariencia para ellos es parecida a la del perfil de profesor, pero tiene menos funcionalidades y algún cambio que pasamos a revisar:
 
-![](/assets/import32.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import32.png)
 
 -**Asignaciones**: En este apartado el alumno verá las asignaciones y pruebas que tiene pendiente con la correspondiente fecha de entrega, así como las asignaciones y pruebas ya entregadas con la calificación correspondiente \(o pendientes de corregir si el profesor aún no la ha corregido\).
 
@@ -14,11 +14,11 @@ Es interesante conocer el perfil de estudiantes porque será el que verán nuest
 
 -**Notificaciones:**Siempre que se produzca algún tipo de actividad que involucre al alumno aparecerá en notificaciones, indicándole nueva actividad con un círculo rojo.
 
-![](/assets/import33.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import33.png)
 
 -**Edmodo Spotligh**: Esta funcionalidad se encuentra en el icono que parece un kioslo de la derecha con el perfil de estudiante
 
-![](/assets/edmodospotlight.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edmodospotlight.jpg)
 
 Al entrar salen muchos recursos, pero la mayoría son simples enlaces a otras plataformas que para usarlas, el alumno tendría que abrirse una cuenta de usuario, con la desventaja que con menos de 16 años no es legal tener una cuenta de email, al menos que sea la del centro.
 
@@ -32,7 +32,7 @@ Al entrar salen muchos recursos, pero la mayoría son simples enlaces a otras pl
 * ~~Esto te llevará a una pregunta de Play.~~
 
 ~~Para ir a la página principal, haz clic en "Edmodo Play Beta" en la parte superior izquierda.~~
-![](/assets/import34.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import34.png)
 
 ~~Actualmente hay 9 desafíos disponibles en Play, aunque se irán ampliando:~~
 * ~~Matemáticas - 8º curso, 10º curso y 12º curso~~
@@ -44,7 +44,7 @@ Al entrar salen muchos recursos, pero la mayoría son simples enlaces a otras pl
 
 ~~Todas las clases a las que pertenezca el alumno aparecerán en la parte izquierda de la pantalla. Desde este menú también podrá unirse a nuevas clases cuando el profesor le proporciones el código correspondiente.~~~~
 
-![](/assets/import35.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import35.png)
 
 ##### 8.2 Perfil de padres
 
@@ -52,17 +52,17 @@ Tener a los padres en Edmodo puede ser de gran utilidad para mantenerlos informa
 
 También es posible unirse a través de la invitación que hará su hijo a través de la pestaña invitar, que generará un correo electrónico que permitirá unirse al padre.
 
-![](/assets/import36.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import36.png)
 
 También como profesor puedes invitar a un padre, simplemente en el perfil del alumno en **conectar con el familiar**:
 
-![](/assets/invitarpadre.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/invitarpadre.jpg)
 
 Una vez en Edmodo los padres tendrán acceso a todos los datos referentes a su hijo/a, así como a mantener contacto mediante mensajería con el o los profesores de su hijo/a y comprobar los trabajos pendientes y entregados por parte del alumno. Básicamente tendríamos la pestaña _mensajes_ y la pestaña tareas _por entregar_.
 
 La visión de la pantalla que tienen los padres sería la siguiente:
 
-![](/assets/import39.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import39.png)
 
 Es importante hacer notar que los padres necesitan una única cuenta para tener a todos sus hijos inegrados. Cada hijo que use Edmodo le entregará un código con el que los padres podrán acceder a los datos de sus hijos.
 

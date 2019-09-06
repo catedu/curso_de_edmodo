@@ -4,7 +4,7 @@ Edmodo permite también una comunicación rápida y eficaz con los profesores de
 
 Para acceder e interaccionar con ellos clicaremos en mi CDP.
 
-![](/assets/import28.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import28.png)
 
 Aparecerá una página donde se mostrarán todos nuestros contactos así como la posibilidad de invitar a nuevos compañeros a formar parte de nuestra comunidad.
 
@@ -16,7 +16,7 @@ Para crear un Grupo de Desarrollo Profesional, simplemente sigue los pasos descr
 
 -En el panel lateral izquierdo, en el apartado Grupos, clica en la opción Crea un Grupo. Al craerlo se generará un código de grupo y una dirección web de solicitud de ingreso.
 
-![](/assets/import29.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import29.png)
 
 -Proporciona el Código de Grupo o la URL de Solicitud de Ingreso al Grupo a los profesores que quieres que se unan a tu grupo.
 
@@ -41,11 +41,11 @@ Para enviar una Nota a tus Conexiones y tu Comunidad Escolar:
 
 La plataforma Edmodo cuenta con un buscador que nos permitirá resolver cualquier duda sobre el funcionamiento de la misma. Tenemos la opción de buscar por palabra clave o por tema. Para acceder a ella basta con clicar en nuestra imagen que aparece en la esquina superior derecha y en el menú desplegable pulsar Centro de Ayuda.
 
-![](/assets/import31.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import31.png)
 
 De esta manera nos dirigiremos a la siguiente pantalla donde poder buscar el tema sobre el que tengamos dudas.
 
-![](/assets/import30.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import30.png)
 
 
 

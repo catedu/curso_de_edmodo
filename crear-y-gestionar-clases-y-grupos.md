@@ -10,13 +10,13 @@ Vamos a ver a continuación como se gestiona cada uno de ellos.
 
 Una vez dados de alta en la plataforma, el siguiente paso es crear nuestra primera clase. Para ello debemos diroigirnos a uno de los menús que aparecen a la izquierda y clicar en  **Crear una clase**. Desde esta consola vamos a poder gestionar y crear las clases siempre que lo necesitemos. También nos permitirá unirnos a otras clases creadas por compañeros.
 
-![](/assets/import04.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import04.png)
 
 A continuación debemos completar el **nombre** que le daremos a la clase, el **nivel educativo** que corresponde a esa clase \(donde 1º sería 1º de primaria, 7º sería nuestro 1º de ESO,… y 12º corresponde a nuestro 2º de bachillerato, ya que se utiliza la escala de niveles educativos anglosajona\) aunque también tenemos la posibilidad de elegir un rango completo, desde 1º a 4º, de 1º a 6º, etc. Y finalmente la **materia** impartida.
 
 Finalmente podemos seleccionar el color con el que identificaremos a la clase recién creada. Pulsamos en la opción Crear. Una vez hecho esto nuestra nueva clase debe aparecer en la consola de gestión de clases.
 
-![](/assets/import05.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import05.png)
 
 ##### 3.2 Gestionar códigos de clases
 
@@ -30,7 +30,7 @@ Una vez creada nuestra primera clase, nos aparecerá una pantalla con el **códi
 
 -O sencillamente podemos copiarlo en la pizarra y que los alumnos lo anoten en sus agendas.
 
-![](/assets/Codigos.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/Codigos.jpg)
 
 Este código que hemos generado es único para nuestra clase y podemos cambiarlo cuando queramos, así como desactivarlo una vez que todos los alumnos de la clase se han inscrito correctamente. Esto lo veremos más adelante.
 
@@ -38,7 +38,7 @@ Todas nuestras clases nos aparecerán en el menú de la izquierda, identificados
 
 Podemos bloquear la admisión del grupo, entonces si a alguien le hemos enviado un código, necesitará nuestra aprobación:
 
-![](/assets/bloqueargrupo.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/bloqueargrupo.jpg)
 
 ##### 3.3 Administrar clases
 
@@ -61,11 +61,11 @@ Desde la opción _Administrar clases_ podemos archivar o eliminar clases creadas
 ##### 3.4 Eliminar clase
 Si queremos eliminar una clase, entramos en **configuración avanzada**:
 
-![](/assets/2018-09-08 09_18_34-MiClase _ Edmodo.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/2018-09-08 09_18_34-MiClase _ Edmodo.jpg)
 
 entrando en **borrar**
 
-![](/assets/2018-09-08 09_24_57-MiClase _ Edmodo.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/2018-09-08 09_24_57-MiClase _ Edmodo.png)
 
 ##### 3.5 Grupos
 
@@ -73,11 +73,11 @@ Tenemos dos conceptos:
 * **CLASES** orientado a grupo de **alumnos**, actividades, evaluación...
 * **GRUPOS** orientado a grupo de **profesores** que comparten material, intereses, etc..
 
-![](/assets/gruposyclases.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/gruposyclases.png)
 
 La gestión y administración de los grupos se hace de forma parecida a las clases, utilizando para ello el menú que aparece debajo de las clases con la denominación Grupos.
 
-![](/assets/import42.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import42.png)
 
 Desde este menú podemos _crear un grupo_, con lo que obtendremos un código para invitar a compañeros o _unirnos a un grupo_ creado por otro profesor y del que nos habrá proporcionado su código de acceso. Existe una gran cantidad de grupos abiertos a los que poder unirse y tratar temas de interés común para los participantes.
 
@@ -85,5 +85,5 @@ La administración de grupos permite las mismas opciones que la administración 
 
 Por ejemplo para que alguien se una a nuestro grupo hay que enviarle el enlace que se indica aquí:
 
-![](/assets/2019-06-30 15_52_07-Window.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/2019-06-30 15_52_07-Window.png)
 

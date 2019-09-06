@@ -3,7 +3,7 @@ Edmodo dispone de una herramienta **Edmodo Spotlight** en la que encontrar cient
 
 Estas aplicaciones podemos elegirlas por país, nivel, idioma y tema o actividad que nos interese.
 
-![](/assets/import23.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import23.png)
 
 Entre las más destacadas y útiles figura el **Calendario**, que viene instalada por defecto y podemos encontrar en la parte derecha de la pantalla. Vamos a verla con mayor profundidad.
 
@@ -11,11 +11,11 @@ Entre las más destacadas y útiles figura el **Calendario**, que viene instalad
 
 Para acceder a él sólo debemos clicar en el icono donde figura el calendario, y se nos abrirá en una nueva ventana.
 
-![](/assets/import24.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import24.png)
 
 La gran utilidad del calendario es que a la hora de crear eventos podemos compartirlos con los cursos implicados, así en el calendario del alumno aparecerán todas las fechas importantes para él, fechas de exámenes, entregas de trabajos, asignaciones, etc. Tanto el alumno como el profesor disponen de una visión semanal o mensual del calendario.
 
-![](/assets/import25.png)![](/assets/import26.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import25.png)![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import26.png)
 
 Veamos como crear un evento:
 
@@ -39,7 +39,7 @@ Otras dos aplicaciones que viene por defecto en nuestra consola son Snapshot, de
 
 Para acceder a otras aplicaciones de las que disponemos en Edmodo, debemos clicar en la pestaña Spotlight, donde nos aparecerán todas las aplicaciones disponibles clasificadas por país, nivel, idioma y tema o asignatura como dijimos al principio.
 
-![](/assets/import27.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import27.png)
 
 Existen aplicaciones de pago, pero desde España sólo están disponibles aquellas que son gratuitas. Estas aplicaciones proceden de EdmodoConnect, pero también de profesores particulares que suben sus propias aplicaciones para compartirlas con el resto de la comunidad educativa.
 
@@ -81,11 +81,11 @@ Está revolucionando el vídeo en línea para la educación. Los profesores, los
 
 Entramos en Spotlight
 
-![](/assets/import27.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import27.png)
 
 Y seleccionamos por ejemplo, EdPuzzle:
 
-![](/assets/edpuzzle1.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edpuzzle1.jpg)
 
 Vemos que podemos hacer:
 
@@ -96,45 +96,45 @@ Vemos que podemos hacer:
 
 Vamos a decidir Agregar a la biblioteca:
 
-![](/assets/edpuzzle2.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edpuzzle2.jpg)
 
 Vamos a nuestra clase, y creamos un nuevo mensaje con un recurso desde nuestra biblioteca:
 
-![](/assets/edpuzzle-edmodo.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edpuzzle-edmodo.jpg)
 
 Elegimos el Edpuzzle que hemos incorporado a nuestra biblioteca
 
-![](/assets/EdPuzzle4.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/EdPuzzle4.jpg)
 
 De esta manera invitamos a los alumnos a usar y experimentar EdPuzzle. Así queda en clase:
 
-![](/assets/edmodo15.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edmodo15.jpg)
 
 ##6.6 No quiero que los alumnos usen de manera genérica una App sino quiero que usen un recurso concreto de esa App
 
 Es lo más frecuente, es decir yo encuentro un contenido interesante en cualquier página, y quiero que mis alumnos lo utilicen. Por ejemplo entro en https://edpuzzle.com busco por ejemplo *Arduino* encuentro un contenido interesante que quiero que lo vean mis alumnos, luego pulso en *ver*
 
-![](/assets/edpuzzle8.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edpuzzle8.jpg)
 
 En la siguiente pantalla *Compartir*:
 
-![](/assets/edmodo9.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edmodo9.jpg)
 
 >Le podría dar a Copiar y Editar y podría editar las preguntas, quitar, añadir....
 
 Le doy al **enlace público** (gracias a que el autor lo ha publicado como Public) * o también al código embebido, pero a veces no funciona por lo que es recomendable el enlace*.
 
 
-![](/assets/edpuzzle9.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edpuzzle9.jpg)
 
 
 Y vamos a **Edmodo** a **mi clase**, y añado **un mensaje** a la clase con **un link** pegando el código anterior *puede ser el link o puede ser el código embebido pero tal y como hemos dicho, a veces no funciona, luego el link*
 
-!![](/assets/edmodo13.jpg)
+!![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edmodo13.jpg)
 
 Y así lo ven los alumnos: 
 
-![](/assets/Edpuzzle14.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/Edpuzzle14.jpg)
 
 >**Consejo**: En estos casos que queremos que hagan una actividad concreta, recomendamos en vez de **Mensaje** hacerlo como **Asignación** la diferencia es que se hace un seguimiento y se asigna una fecha límite, con lo cual podemos ver quien ha visitado el enlace y quien no.
 
@@ -146,7 +146,7 @@ Pues depende... según nuestro criterio (totalmente criticable), si entramos en 
 * *Juegos, experimentación, etc.. * entonces lo que interesa es compartir ese recurso para que nuestros alumnos lo experimenten, por ejemplo en la siguiente imagen los tres primeros. Entonces **lo recomendable es utilizar el método 6.5 compartir el recurso**.
 * *Repositorios genéricos* de contenidos como el que hemos visto EdPuzzle, entonces ** lo recomendable es 6.6 compartir un enlace específico de ese repositorio** pues queremos que no se dispersen sino que visiten un contenido específico (en el ejemplo 6.6 anterior ese vídeo concreto de Arduino).
 
-![](/assets/edpuzzle1.jpg)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edpuzzle1.jpg)
 
 ##6.8.- Me ha gustado eso de compartir contenidos, pero... ¿Puedo crear uno y compartirlo en vez de compartir uno creado por otra persona?
 Si, por supuesto pero se va de los objetivos de este curso. Por ejemplo si te interesa crear un recurso en **EDPuzzle** te recomendamos que visites:  https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/edpuzzle.html

@@ -2,7 +2,7 @@ La** biblioteca de Edmodo** es un lugar donde van a estar recogidos todos los ar
 
 El acceso a la biblioteca se hace a través del botón de la parte superior izquierda en forma de libro:
 
-![](/assets/import17.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import17.png)
 
 ##### 5.1 ¿Qué hay en la biblioteca?
 
@@ -28,7 +28,7 @@ URL: Acceder a la misma \("Lanzar sitio web"\).
 
 Video: posibilidad de visualizarlo en ventana emergente.
 
-![](/assets/import18.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import18.png)
 
 ##### 5.2 Gestión de mis archivos en la biblioteca
 
@@ -54,7 +54,7 @@ Compartir: Comparte una carpeta con un grupo que selecciones.
 
 Borrar: Eliminar de forma permanente un elemento de la biblioteca. La eliminación de carpetas borra todo el contenido en el interior, así que ¡ten cuidado con esto!
 
-![](/assets/import19.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import19.png)
 
 Opciones de Elementos
 
@@ -68,7 +68,7 @@ Compartir en Spotlight: Compartir tus recursos con la comunidad de Profesores en
 
 Abrir en Office: Para unos tipos de archivos, los puedes abrir con Office Online para acceder a una manera rápida de editar a realizar tus documentos. Para que esta opción esté disponible debemos conectar la biblioteca de Edmodo a Office 365, como se verá en el siguiente apartado.
 
-![](/assets/import20.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import20.png)
 
 ##### 5.3 Conexión con Google Drive e integración Office
 
@@ -84,13 +84,13 @@ Es posible vincular nuestros documentos guardados en Drive con la biblioteca de 
 
 -Pulsa el botón “Aceptar” cuando se te indique que Edmodo quiere acceder a tu Google Drive.
 
-![](/assets/import21.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import21.png)
 
 Los archivos en la sección “Google Drive” de tu Biblioteca aparecerán ordenados por la última fecha de modificación, en primer lugar los más recientes. Todos los archivos de las secciones “Mi unidad” y “Compartido conmigo” se mostrarán ordenados de esta forma.
 
 De la misma forma es posible conectar nuestro OneDrive con la biblioteca de Edmodo y tener así nuestros archivos dispuestos para su uso desde la plataforma. La forma de conectar es similar a la empleada para Drive de Google.
 
-![](/assets/import22.png)
+![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import22.png)
 
 Esta opción nos va a permitir editar nuestros documentos creados con Microsoft Office a través de Office online, sin necesidad de descargar los documentos para su modificación.
 

@@ -1,3 +1,4 @@
+#0 ¿Clase o grupo?
 Lo primero que debemos aclarar en este apartado es la diferencia que existe entre **una clase y un grupo**.
 
 Las _clases_ son el espacio de comunicación y trabajo con nuestros alumnos. Dentro tus clases es posible enviar Notas, Pruebas, Asignaciones, Encuestas y Snapshots a tus alumnos. También permiten el contacto y la información con los padres. Es decir, las clases la forman los alumnos y sus profesores.
@@ -6,7 +7,9 @@ Por el contrario, los _grupos_ son el espacio de comunicación entre compañeros
 
 Vamos a ver a continuación como se gestiona cada uno de ellos.
 
-##### 3.1 Crear una clase nueva
+#1 CLASE
+
+## 1.1 Crear una clase nueva
 
 Una vez dados de alta en la plataforma, el siguiente paso es crear nuestra primera clase. Para ello debemos diroigirnos a uno de los menús que aparecen a la izquierda y clicar en  **Crear una clase**. Desde esta consola vamos a poder gestionar y crear las clases siempre que lo necesitemos. También nos permitirá unirnos a otras clases creadas por compañeros.
 
@@ -18,7 +21,7 @@ Finalmente podemos seleccionar el color con el que identificaremos a la clase re
 
 ![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import05.png)
 
-##### 3.2 Gestionar códigos de clases
+## 1.2 Gestionar códigos de clases
 
 Una vez creada nuestra primera clase, nos aparecerá una pantalla con el **código** que tendrá asignado esa clase y que permitirá que nuestros alumnos se unan a él. Podemos facilitarles el código de varios modos:
 
@@ -40,7 +43,7 @@ Podemos bloquear la admisión del grupo, entonces si a alguien le hemos enviado 
 
 ![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/bloqueargrupo.jpg)
 
-##### 3.3 Administrar clases
+##1.3 Administrar clases
 
 Una vez que tenemos creada nuestra clase y tenemos el código asociado a él, se lo damos a nuestros alumnos que deberán registrarse en Edmodo e introducir el código proporcionado para unirse a nuestra clase. Es importante que conozcamos este proceso que van a seguir los alumnos porque en muchos casos nos reclamarán ayuda para darse de alta. Sería bueno hacer todo este proceso en clase bajo la supervisión del profesor.
 
@@ -58,7 +61,7 @@ Una vez que todos nuestros alumnos se han unido a nuestra clase, conviene **bloq
 
 Desde la opción _Administrar clases_ podemos archivar o eliminar clases creadas e incluso restaurar clases que teníamos archivadas.
 
-##### 3.4 Eliminar clase
+## 1.4 Eliminar clase
 Si queremos eliminar una clase, entramos en **configuración avanzada**:
 
 ![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/2018-09-08 09_18_34-MiClase _ Edmodo.jpg)
@@ -67,7 +70,7 @@ entrando en **borrar**
 
 ![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/2018-09-08 09_24_57-MiClase _ Edmodo.png)
 
-##### 3.5 Grupos
+# GRUPOS
 
 Tenemos dos conceptos:
 * **CLASES** orientado a grupo de **alumnos**, actividades, evaluación...

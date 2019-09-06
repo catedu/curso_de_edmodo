@@ -1,4 +1,6 @@
-## 4.1 Nota, asignación, prueba y encuesta.
+# HERRAMIENTAS
+
+## 1 Nota, asignación, prueba y encuesta.
 
 La plataforma Edmodo es básicamente una plataforma de comunicación con nuestros alumnos e incluso con los padres de nuestros alumnos y otros profesores. Para poder gestionar adecuadamente esta comunicación dispone de una serie de herramientas que utilizaremos según la necesidad de cada momento. Para acceder a las opciones que detallamos a continuación debemos entrar en nuestra clase y aparecerán diversas pestañas con las opciones: Nota, Asignación, Prueba, Encuesta y Snapshot.
 
@@ -40,7 +42,7 @@ Para realizarla es muy sencillo, sólo tenemos que decidir la pregunta que vamos
 
 Los resultados de la encuesta se nos irán presentando tanto en forma de línea gráfica como porcentaje y número de votos de cada opción.
 
-## 4.2 Calendario
+## 2 Calendario
 
 Podemos crear eventos en nuestro calendario:
 
@@ -58,7 +60,7 @@ Y puedes asignarlo a una clase específica, grupo, etc.. si no lo asignas a nadi
 
 ![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/evento.png)
 
-## 4.3 Libro de calificaciones
+## 3 Libro de calificaciones
 
 El libro de calificaciones es una interesante herramienta que nos va a permitir hacer un seguimiento del avance de nuestros alumnos de una forma cómoda y segura. Las calificaciones de las pruebas y tareas que asignemos a través de Edmodo se incorporarán de manera automática, pero otras calificaciones externas podemos incluirlas nosotros de forma manual.
 
@@ -104,7 +106,7 @@ Es posible en el libro de calificaciones ir separando las notas por trimestre, e
 
 ![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/LibroCalificaciones.jpg)
 
-## 4.4 Insignias
+## 4 Insignias
 
 Las **insignias** es otra herramienta que incorpora Edmodo y puede resultar muy motivador para nuestros alumnos. Es una forma sencilla y simpática de reconocerles su buen hacer. La plataforma dispone de una serie de insignias predefinidas, pero podemos crear nuestras propias insignias con la imagen y el argumento que creamos conveniente y que mejor se ajuste a lo que queremos trasmitir a los alumnos.
 
@@ -122,7 +124,7 @@ Conceder una insignia a un alumno es tan sencillo como entrar en su perfil y en 
 
 Al pinchar en cada insignia figurarán los alumnos a los que esa insignia ha sido concedida. En cualquier momento podemos eliminar una insignia creada por nosotros. Las creadas por Edmodo son permanentes.
 
-## 4.5 Mensajería
+## 5 Mensajería
 
 Esta nueva funcionalidad de Edmodo nos permite enviar mensajes privados a cualquier estudiante o profesor con el que estemos conectados. Para acceder pulsamos en Mensajería en la parte superior derecha con lo que accedemos a la consola de mensajes.
 

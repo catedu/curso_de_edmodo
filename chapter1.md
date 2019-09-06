@@ -1,4 +1,4 @@
-**EDMODO**
+#**EDMODO**
 
 La plataforma educativa Edmodo puede definirse como un _Facebook_ para usar en el aula con nuestros alumnos. Permite compartir, analizar, evaluar, motivar,… a nuestros alumnos a través de una herramienta digital con la ventaja de que todo el contenido y los datos aportados permanecen seguros y ocultos sólo visibles para el profesor y sus alumnos.
 

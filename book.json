@@ -1,32 +1,50 @@
 {
-    "plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "image-captions"],
-    "language": "es",
-    "variables": {
-        "title": "Curso de Edmodo",
-        "authors": [
-            "Gabriel Sánchez Carbajo",
-            "___________"
-        ],
-        "collaborators": [
-            {"name": "Yolanda Pérez Jordán", "edited": "3 Crear y gestionar grupos"},
-            {"name": "Yolanda Pérez Jordán", "edited": "6 Aplicaciones Spotlight"}
-        ]
+  "plugins": [
+    "youtube",
+    "accordion",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "image-captions",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Curso de Edmodo",
+    "authors": [
+      "Gabriel Sánchez Carbajo",
+      "___________"
+    ],
+    "collaborators": [
+      {
+        "name": "Yolanda Pérez Jordán",
+        "edited": "3 Crear y gestionar grupos"
+      },
+      {
+        "name": "Yolanda Pérez Jordán",
+        "edited": "6 Aplicaciones Spotlight"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
     },
-    "pluginsConfig": {
-        "localized-footer": {
-            "hline": true,
-            "filename": "./FOOTER.md"
-        },
-        "image-captions": {
-            "caption": "Imagen - _CAPTION_"
-        },
-        "edit-link": {
-            "base": "https://github.com/catedu/curso_de_edmodo/edit/master",
-            "label": "Edita esta página"
-        },
-        "githubcontributors": {
-            "githubOwner": "catedu",
-            "githubRepository": "curso_de_edmodo"
-        }
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/curso_de_edmodo/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "curso_de_edmodo"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
     }
+  }
 }

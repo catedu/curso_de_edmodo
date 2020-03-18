@@ -126,7 +126,7 @@ Al pinchar en cada insignia figurarán los alumnos a los que esa insignia ha sid
 
 ## 5 Mensajería
 
-Esta nueva funcionalidad de Edmodo nos permite enviar mensajes privados a cualquier estudiante o profesor con el que estemos conectados. Para acceder pulsamos en Mensajería en la parte superior derecha con lo que accedemos a la consola de mensajes.
+Nos permite enviar mensajes privados a cualquier estudiante o profesor con el que estemos conectados. Para acceder pulsamos en Mensajería en la parte superior derecha con lo que accedemos a la consola de mensajes.
 
 ![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import15.png)
 

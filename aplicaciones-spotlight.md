@@ -1,4 +1,4 @@
-# 6 Aplicaciones Spotlight
+# 6 Aplicaciones
 Edmodo dispone de una herramientas y apps que puedes añadir en tu clase
 
 ####¿dónde están?

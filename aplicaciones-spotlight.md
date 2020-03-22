@@ -1,5 +1,10 @@
 # 6 Aplicaciones Spotlight
-Edmodo dispone de una herramienta **Edmodo Spotlight** en la que encontrar cientos de aplicaciones que pueden completar y facilitar muchas de las tareas que nos propongamos emprender con nuestros alumnos. La gran mayoría de las aplicaciones están realizadas por los propios profesores. Es un lugar para compartir, recopilar, valorar y descubrir recursos útiles para tus estudiantes y para la enseñanza. Hay aplicaciones de pago y gratuitas, aunque actualmente desde España sólo están disponibles las aplicaciones gratuitas.
+Edmodo dispone de una herramientas y apps que puedes añadir en tu clase
+
+####¿dónde están?
+Desde 1/1/2020 se están moviendo algunas aplicaciones de **Edmodo Spotlight** https://new.edmodo.com/spotlight/ a **Descubrir Edmodo** https://new.edmodo.com/discover 
+
+En los dos sitios puedes encontrar cientos de aplicaciones que pueden completar y facilitar muchas de las tareas que nos propongamos emprender con nuestros alumnos. La gran mayoría de las aplicaciones están realizadas por los propios profesores. Es un lugar para compartir, recopilar, valorar y descubrir recursos útiles para tus estudiantes y para la enseñanza. Hay aplicaciones de pago y gratuitas, aunque actualmente desde España sólo están disponibles las aplicaciones gratuitas.
 
 Estas aplicaciones podemos elegirlas por país, nivel, idioma y tema o actividad que nos interese.
 

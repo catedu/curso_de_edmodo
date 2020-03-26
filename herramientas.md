@@ -1,16 +1,16 @@
 # HERRAMIENTAS
 
-## 1 Nota, asignación, prueba y encuesta.
+## 1 Mensaje, asignación, prueba y encuesta.
 
-La plataforma Edmodo es básicamente una plataforma de comunicación con nuestros alumnos e incluso con los padres de nuestros alumnos y otros profesores. Para poder gestionar adecuadamente esta comunicación dispone de una serie de herramientas que utilizaremos según la necesidad de cada momento. Para acceder a las opciones que detallamos a continuación debemos entrar en nuestra clase y aparecerán diversas pestañas con las opciones: Nota, Asignación, Prueba, Encuesta y Snapshot.
+La plataforma Edmodo es básicamente una plataforma de comunicación con nuestros alumnos e incluso con los padres de nuestros alumnos y otros profesores. Para poder gestionar adecuadamente esta comunicación dispone de una serie de herramientas que utilizaremos según la necesidad de cada momento. Para acceder a las opciones que detallamos a continuación debemos entrar en nuestra clase y podremos, desde diferentes lugarees, elegir entre enviar mensajes, compartir materiales, realizar una asignación, proponer una prueba o lanzar una encuesta.
 
 Vamos a detallar cada una de ellas:
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import06.png)
+![](posibilidades.jpg)
 
--**Nota**. Nos permite comunicar una idea, noticia, recordatorio,… No sólo permite texto, sino que es posible adjuntar enlaces, archivos, archivos de nuestra biblioteca y programarla para que se publique en el día y hora que a ti te interese. Es importante resaltar que podemos darle formato al texto de una nota siguiendo los códigos que se recogen a continuación en la imagen.
+-**Publicaciones**. Nos sugiere iniciar una discusión, compartir materiales... Esta función nos permite comunicar una idea, noticia, recordatorio,… No sólo a través de texto, sino que es posible adjuntar enlaces, archivos, archivos de nuestra biblioteca y programarla para que se publique en el día y hora que a ti te interese. Es importante resaltar que podemos darle formato al texto siguiendo los códigos que nos indica en el menú desplegable. Además, desde esta ventana nos permite crear encuestas y consultas sobre el bienestar de las personas que pertenecen a la clase, como explicaremos más adelante.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/Formato texto.jpg)
+![](mensajes.jpg)
 
 -**Asignación**. Nos va a permitir enviarles a nuestros alumnos una tarea sencilla o un problema o texto que previamente habremos diseñado nosotros. Tenemos la opción de diseñar una nueva o cargar alguna que ya tengamos hecha anteriormente. Por supuesto podemos programar cuando será pública para nuestros alumnos y cuando no será posible ya entregarla por exceder la fecha tope de entrega.
 
@@ -26,7 +26,7 @@ Por defecto aparecerá marcada la opción de añadir la calificación de la asig
 
 La forma de ir diseñando cada una de las preguntas es muy intuitiva y la plataforma nos va a ir indicando qué hacer y cómo proceder en cada momento.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/Prueba.jpg)
+![](prueba.jpg)
 
 Iremos añadiendo tantas preguntas como deseemos del tipo que queramos hasta completar nuestro examen. También decidiremos el valor que, dentro de la prueba, daremos a cada pregunta. Para ello basta asignarlo al crear la pregunta. Si no ponemos nada se asignará 1 punto por cada pregunta.
 
@@ -34,9 +34,9 @@ Por defecto el tiempo para realizarlo es de 60 minutos, pero podemos ajustarlo a
 
 Una vez creada la prueba esta se guardará y la tendremos disponible para el futuro con la posibilidad de hacer modificaciones.
 
--**Encuesta**. Esta herramienta es muy útil para recoger información sobre algún tema que involucre a la clase completa, como por ejemplo elegir el tema para el festival de final de curso o el próximo libro que leeremos en clase.
+-**Encuesta**. Se accede desde la ventana de escribir mensajes. Esta herramienta es muy útil para recoger información sobre algún tema que involucre a la clase completa, como por ejemplo elegir el tema para el festival de final de curso o el próximo libro que leeremos en clase.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/Encuesta.jpg)
+![](encuesta.jpg)
 
 Para realizarla es muy sencillo, sólo tenemos que decidir la pregunta que vamos a lanzar y a continuación elegir los ítems a valorar. Podemos poner tantos ítems como necesitemos.
 
@@ -46,11 +46,11 @@ Los resultados de la encuesta se nos irán presentando tanto en forma de línea 
 
 Podemos crear eventos en nuestro calendario:
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/iconocalendario.png)
+![](calendario1.jpg)
 
 Aparece una agenda donde podemos poner nuestros propios eventos, incluso eventos que sean para "Algún día" como recordatorio:
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/planificador.png)
+![](calendario2.jpg)
 
 Si queremos crear un evento para una fecha determinada, nos acercamos al icono +
 
@@ -64,9 +64,9 @@ Y puedes asignarlo a una clase específica, grupo, etc.. si no lo asignas a nadi
 
 El libro de calificaciones es una interesante herramienta que nos va a permitir hacer un seguimiento del avance de nuestros alumnos de una forma cómoda y segura. Las calificaciones de las pruebas y tareas que asignemos a través de Edmodo se incorporarán de manera automática, pero otras calificaciones externas podemos incluirlas nosotros de forma manual.
 
-Para acceder al libro de calificaciones de un grupo en particular, hay que seleccionar la opción "Progreso" de la barra de menús superior. Un menú desplegable aparecerá con una lista de todos los grupos disponibles. Se selecciona el grupo cuyo libro de calificaciones deseamos visualizar.
+Para acceder al libro de calificaciones de una clase en particular, hay que seleccionar en la barra de menú superior **Clase** y elegir la opción **Progreso**. Un menú desplegable aparecerá con una lista de todos los grupos disponibles. Se selecciona el grupo cuyo libro de calificaciones deseamos visualizar.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import08.png)
+![](progreso.jpg)
 
 Los profesores, una vez han seleccionado el grupo del que desean abrir el libro de calificaciones, éste se muestra de la siguiente manera:
 
@@ -110,17 +110,17 @@ Es posible en el libro de calificaciones ir separando las notas por trimestre, e
 
 Las **insignias** es otra herramienta que incorpora Edmodo y puede resultar muy motivador para nuestros alumnos. Es una forma sencilla y simpática de reconocerles su buen hacer. La plataforma dispone de una serie de insignias predefinidas, pero podemos crear nuestras propias insignias con la imagen y el argumento que creamos conveniente y que mejor se ajuste a lo que queremos trasmitir a los alumnos.
 
-Para crear una insignia propia debemos dirigirnos a la parte superior en la opción que indica Progreso, donde podremos gestionar el libro de calificaciones de nuestros alumnos. Pero la primera opción que nos aparece es _Mis insignias para alumnos_, como puede observarse en la imagen que figura a continuación.
+Para accede, dentro del libro de calificaciones, pinchamos en la pestaña **Insignias** y a la derecha vemos un botón para **Añadir insignia**. 
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import12.png)
+![](insignia1.jpg)
 
 Al hacer click en esa opción se nos abre una nueva ventana en la que tendremos las insignias que vienen predefinidas en la plataforma, así como la opción de crear las nuestras propias, usando la opción **+**. Aquí sólo tendremos que indicar el título de nuestra insignia, una breve descripción de la misma y añadir una imagen desde nuestro ordenador, eso sí, con una limitación de 114x114 píxeles.
 
 ![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import13.png)
 
-Conceder una insignia a un alumno es tan sencillo como entrar en su perfil y en la parte superior derecha encontramos una pestaña que indica Dar insignia. Pulsando sobre ella podremos elegir la insignia a conceder a ese alumno. Por supuesto, en cualquier momento es posible retirara a un alumno una insignia concedida.
+Conceder una insignia a un alumno es tan sencillo como entrar en su perfil y en la parte superior derecha encontramos una pestaña que indica **Otorgar insignia**. Pulsando sobre ella podremos elegir la insignia a conceder a ese alumno. Por supuesto, en cualquier momento es posible retirara a un alumno una insignia concedida.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import14.png)
+![](otorgar insignia.jpg)
 
 Al pinchar en cada insignia figurarán los alumnos a los que esa insignia ha sido concedida. En cualquier momento podemos eliminar una insignia creada por nosotros. Las creadas por Edmodo son permanentes.
 
@@ -128,11 +128,7 @@ Al pinchar en cada insignia figurarán los alumnos a los que esa insignia ha sid
 
 Nos permite enviar mensajes privados a cualquier estudiante o profesor con el que estemos conectados. Para acceder pulsamos en Mensajería en la parte superior derecha con lo que accedemos a la consola de mensajes.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import15.png)
-
-Acceso a la consola de mensajería.
-
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import16.png)
+![](mensajeria.jpg)
 
 En el recuadro superior escribimos el o los destinatarios y en el recuadro inferior el texto del mensaje. Es posible adjuntar un archivo que se encuentre en nuestro ordenador.
 

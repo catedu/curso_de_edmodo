@@ -1,7 +1,7 @@
 #0 ¿Clase o grupo?
 Lo primero que debemos aclarar en este apartado es la diferencia que existe entre **una clase y un grupo**.
 
-Las _clases_ son el espacio de comunicación y trabajo con nuestros alumnos. Dentro tus clases es posible enviar Notas, Pruebas, Asignaciones, Encuestas y Snapshots a tus alumnos. También permiten el contacto y la información con los padres. Es decir, las clases la forman los alumnos y sus profesores.
+Las _clases_ son el espacio de comunicación y trabajo con nuestros alumnos. Dentro tus clases es posible enviar Mensajes, Pruebas, Asignaciones, Encuestas y Snapshots a tus alumnos. También permiten el contacto y la información con los padres. Es decir, las clases la forman los alumnos y sus profesores.
 
 Por el contrario, los _grupos_ son el espacio de comunicación entre compañeros profesores. Permiten compartir experiencias, materiales,…. Por tanto los grupos están formados por profesores.
 
@@ -11,19 +11,25 @@ Vamos a ver a continuación como se gestiona cada uno de ellos.
 
 ## 1.1 Crear una clase nueva
 
-Una vez dados de alta en la plataforma, el siguiente paso es crear nuestra primera clase. Para ello debemos diroigirnos a uno de los menús que aparecen a la izquierda y clicar en  **Crear una clase**. Desde esta consola vamos a poder gestionar y crear las clases siempre que lo necesitemos. También nos permitirá unirnos a otras clases creadas por compañeros.
+Una vez dados de alta en la plataforma, el siguiente paso es crear nuestra primera clase. Para ello tenemos dos opciones:
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import04.png)
+a) Vamos al menú lateral izquierdo y pinchamos en los puntitos (...) que hay junto al título **MIS CLASES** y en el menú desplegable elegimos **Crear una clase**. Desde esta consola vamos a poder gestionar y crear las clases siempre que lo necesitemos. También nos permitirá unirnos a otras clases creadas por compañeros.
 
-A continuación debemos completar el **nombre** que le daremos a la clase, el **nivel educativo** que corresponde a esa clase \(donde 1º sería 1º de primaria, 7º sería nuestro 1º de ESO,… y 12º corresponde a nuestro 2º de bachillerato, ya que se utiliza la escala de niveles educativos anglosajona\) aunque también tenemos la posibilidad de elegir un rango completo, desde 1º a 4º, de 1º a 6º, etc. Y finalmente la **materia** impartida.
+![](crear clase.jpg)
+
+b) Desde el menú superior pinchamos en **Clases** y se nos abre una ventana en la que podemos visualizar todas las clases en las que estamos incluidos. Si pinchamos en el **+** que hay a la derecha se abre un pequeño desplegable donde encontramos las opciones de **Crear una clase** o **Unirse a una clase**
+
+![](crear clase2.jpg)
+
+En cualquiera de los casos, se abre una nueva ventana en la que debemos completar el **nombre** que le daremos a la clase, el **nivel de enseñanza** que corresponde a esa clase \(donde 1º sería 1º de primaria, 7º sería nuestro 1º de ESO,… y 12º corresponde a nuestro 2º de bachillerato, ya que se utiliza la escala de niveles educativos anglosajona\) aunque también tenemos la posibilidad de elegir un rango completo, desde 1º a 4º, de 1º a 6º, etc. Y finalmente la **asignatura** impartida.
 
 Finalmente podemos seleccionar el color con el que identificaremos a la clase recién creada. Pulsamos en la opción Crear. Una vez hecho esto nuestra nueva clase debe aparecer en la consola de gestión de clases.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import05.png)
+![](datos clase.jpg)
 
 ## 1.2 Gestionar códigos de clases
 
-Una vez creada nuestra primera clase, nos aparecerá una pantalla con el **código** que tendrá asignado esa clase y que permitirá que nuestros alumnos se unan a él. Podemos facilitarles el código de varios modos:
+Una vez creada nuestra primera clase, en la cabecera de la misma, bajo el título nos aparecerá el **código de la clase**  que permitirá que nuestros alumnos se unan a ella. Si pinchamos en el código se abre una ventana en la que nos permite compartir el código de varios modos:
 
 -A través del pdf que se genera donde figura además del código los pasos a seguir para que el alumno se una a nuestro grupo \(podemos proyectarlo en la PDI o imprimirlo\).
 
@@ -33,15 +39,14 @@ Una vez creada nuestra primera clase, nos aparecerá una pantalla con el **códi
 
 -O sencillamente podemos copiarlo en la pizarra y que los alumnos lo anoten en sus agendas.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/Codigos.jpg)
+![](codigo.jpg)
 
-Este código que hemos generado es único para nuestra clase y podemos cambiarlo cuando queramos, así como desactivarlo una vez que todos los alumnos de la clase se han inscrito correctamente. Esto lo veremos más adelante.
+Este código que hemos generado es único para nuestra clase y podemos cambiarlo cuando queramos, así como desactivarlo una vez que todos los alumnos de la clase se han inscrito correctamente, para ello tenemos que abrir el desplegable que hay junto al código y elegir la opción que nos interese restablecer código/bloquear clase. Cuando bloqueamos la admisión de la clase, aunque alguien use el código que le hemos enviado, necesitará nuestra aprobación para acceder.
+
+![](bloquear codigo.jpg)
 
 Todas nuestras clases nos aparecerán en el menú de la izquierda, identificados con el color que les hayamos asignado y con su nombre correspondiente.
 
-Podemos bloquear la admisión del grupo, entonces si a alguien le hemos enviado un código, necesitará nuestra aprobación:
-
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/bloqueargrupo.jpg)
 
 ##1.3 Administrar clases
 
@@ -64,11 +69,11 @@ Desde la opción _Administrar clases_ podemos archivar o eliminar clases creadas
 ## 1.4 Eliminar clase
 Si queremos eliminar una clase, entramos en **configuración avanzada**:
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/2018-09-08 09_18_34-MiClase _ Edmodo.jpg)
+![](borrar clase.jpg)
 
 entrando en **borrar**
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/2018-09-08 09_24_57-MiClase _ Edmodo.png)
+![](borrar clase2.jpg)
 
 # GRUPOS
 
@@ -80,7 +85,7 @@ Tenemos dos conceptos:
 
 La gestión y administración de los grupos se hace de forma parecida a las clases, utilizando para ello el menú que aparece debajo de las clases con la denominación Grupos.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import42.png)
+![](crear grupo.jpg)
 
 Desde este menú podemos _crear un grupo_, con lo que obtendremos un código para invitar a compañeros o _unirnos a un grupo_ creado por otro profesor y del que nos habrá proporcionado su código de acceso. Existe una gran cantidad de grupos abiertos a los que poder unirse y tratar temas de interés común para los participantes.
 

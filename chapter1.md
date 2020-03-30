@@ -12,5 +12,5 @@ También es posible utilizarla como un método rápido y eficaz de comunicación
 
 A todo ello hay que unir el componente motivador e integrador que supone la utilización de las nuevas tecnologías en la vida cotidiana de nuestros alumnos.
 
-![](https://drive.google.com/file/d/1rzoav-xmHBlQcJ7qsTsO6l-qIJuOCuiv/view?usp=sharing)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/inicio_edmodo.jpeg)
 

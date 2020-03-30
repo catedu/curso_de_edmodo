@@ -1,2 +1,2 @@
 Curso sobre uno de los LMS más utilizados a nivel mundial: Edmodo.
-![](https://4.bp.blogspot.com/-MbLPw0dtLvc/Wt_Wju1Q_UI/AAAAAAAACJo/hUxJQ1WaPrsVrQpxlWjXZShJkdMzJyJ3gCLcBGAs/s1600/Sin%2Bt%25C3%25ADtulo.png)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/inicio_edmodo.jpeg)

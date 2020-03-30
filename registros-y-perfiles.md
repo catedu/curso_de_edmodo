@@ -3,13 +3,13 @@ La plataforma Edmodo nos da tres posibles perfiles básicos a la hora de realiza
 * **Estudiante**
 * **Familiar**
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import01.png)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/empezar_como_edmodo.jpeg)
 
 #Cuenta profesor
 
 En nuestro caso crearemos una **cuenta de Profesor**, que será la que nos interesará aprender a manejar, aunque veamos las características principales de las otras dos opciones. Si al iniciar la sesión nos aparece en inglés, debemos cambiar el idioma a español sin más que ir hasta el final de la página y en la esquina inferior izquierda seleccionamos el idioma en el desplegable. Esto podemos cambiarlo siempre que queramos.
 
-![](cambio idioma.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/seleccion_idioma_edmodo.jpeg)
 
 
 Pinchamos en la opción **Soy un Profesor** y podremos crear nuestra cuenta en Edmodo de tres formas diferentes:
@@ -20,7 +20,7 @@ Pinchamos en la opción **Soy un Profesor** y podremos crear nuestra cuenta en E
 
 -Crear una cuenta introduciendo correo electrónico y contraseña.
 
-![](registrarse.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/registro_edmodo.jpeg)
 
 Si elegimos la última opción para darnos de alta tendremos que confirmar la cuenta de correo electrónico introducida \(simplemente accediendo al correo que la plataforma nos enviará\) y ya estamos oficialmente formando parte de la gran comunidad educativa de Edmodo y tenemos la herramienta lista para su uso.
 
@@ -40,7 +40,7 @@ Todo esto podemos cambiarlo en cualquier momento, pero en un primer acceso convi
 
 En el caso de la **cuenta de Alumno**, el proceso de alta es muy similar con la excepción de que no va a ser requerido el correo electrónico, con lo que evitamos la exigencia legal de que un menor de 14 años no puede tener correo electrónico. Si necesitará, en cambio, el _código de grupo_ que le proporcionará su profesor y veremos en el siguiente apartado. Con una sola cuenta de Edmodo, el alumno puede unirse a tantas clases como quiera.
 
-![](registro alumnos.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/registro_edmodo_1.jpeg)
 
 #Cuenta de padres
 

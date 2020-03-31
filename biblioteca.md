@@ -1,48 +1,47 @@
-La** biblioteca de Edmodo** es un lugar donde van a estar recogidos todos los archivos y enlaces que vayamos compartiendo con nuestros alumnos, así como todos los archivos que nos interese guardar para compartirlos más tarde con nuestros alumnos o tenerlos simplemente ahí guardados. A efectos prácticos funcionaría como un disco duro personal e inaccesible.
+La** biblioteca de Edmodo** es un lugar donde van a estar recogidos todos los archivos y enlaces que vayamos compartiendo con nuestros alumnos, así como todos los archivos que nos interese guardar para compartirlos más tarde o tenerlos simplemente ahí guardados. A efectos prácticos funcionaría como un disco duro personal e inaccesible.
 
-El acceso a la biblioteca se hace a través del botón de la parte superior izquierda en forma de libro:
+El acceso a la biblioteca se hace a través del botón del menú superior:
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import17.png)
+![](biblioteca.jpg)
 
 ##### 5.1 ¿Qué hay en la biblioteca?
 
 Al acceder a la biblioteca, esto es lo que nos vamos a encontrar:
 
--Zona central: se visualizan los recursos contenidos en:
+![](biblioteca2.jpg)
 
--Biblioteca: Son los subidos por nosotros mismos desde el botón "Add to Library" \(agregar a la biblioteca\). Solo nosotros podemos verlos.
+**Menú izquierdo:** Nos acceso a los 3 almacenes a los que podemos tener disponibles: Biblioteca - One Drive - Google Drive.
 
--Carpetas \(Folders\): permite gestionar las carpetas de la biblioteca. Un alumno o profesor, puede crear carpetas para ordenar todos los recursos de la biblioteca. En el caso del profesor, las carpetas que se crean pueden ser compartidas con uno o más grupos que gestione. En ese caso, el alumno también visualizará las carpetas.
+-Biblioteca: Son los elementos subidos por nosotros mismos desde el botón "Nuevo"  o "Agregar a la biblioteca" cuando se trata de recursos encontrados en "Descubrir" o "Spotlight". También se almacenan en la biblioteca las pruebas que creamos y los recursos que adjuntamos y compartimos en asignaciones , los materiales que nos han compartido en los grupos en los que participamos y las entradas automátias si tenemos dada de alta algún feed de noticias \(RSS a algún blog o similar\)
 
--Archivos adjuntos \(Attached to Posts\): Todos los recursos que me han compartido en alguno de los grupos que participo \(o conexiones con profesores\), mediante la opción de "Notas" del muro \(Mensajes\) y "Adjuntar". También incluye los añadidos por el propio usuario, así como las entradas automáticas si tenemos dada de alta algún feed de noticias \(sindicación RSS a algún blog o similar\).
+-One Drive: Al vincular nuestra cuenta de microsoft \(hotmail, msn,educa.aragon.es,...\), nos permite tener acceso a nuestros recursos creados y alojados en One Drive, facilitando el compartir con nuestros alumnos.
 
 -Google Drive: Al vincular nuestra cuenta de google, nos permite tener acceso a nuestros recursos creados y alojados en google Drive, facilitando el compartir con nuestros alumnos.
 
-Menú izquierdo: acceso a los 4 almacenes antes mencionados: Biblioteca - Carpetas - Archivos adjuntos - Google Drive.
 
-Menú superior: Muestra opciones de visualización de los recursos \(como lista o como miniaturas\) que pueden variar dependiendo de la pestaña seleccionada en el menú izquierdo \(según el almacén seleccionado\). También podemos definir de que grupo son los recursos a mostrar \(en Archivos adjuntos\) y filtrar los recursos por Archivos/Enlaces. Cuando se selecciona uno o varios recursos \(clic sobre el borde azul superior\) las acciones se amplían con borrar, selecionar/deseleccionar todo y asignar carpetas. Cuando se hace clic sobre el centro de la miniatura de un recurso, podremos acceder al recurso:
+**Zona central:** se visualizan los recursos contenidos en la opción del menú lateral izquierdo que tengamos seleccionada.
+Por defecto aparece seleccionada la "Biblioteca". En tal caso, podemos observar lo siguiente:
 
-Archivos: pueden descargarse y en algunos casos también previsualizarse \(PDF, Word, imagen, etc\).
+- Buscador: Hay una barra de búsqueda que nos ayuda a encontrar items concretos dentro de nuestra biblioteca. Se puede buscar por nombre o por extensión del archivo.
+- Botón "Nuevo": Nos permite crear carpetas, subir archivos, enlaces o pruebas y crear archivos de Word, Excel y Powerpoint.
+- Carpetas y archivos de nuestra biblioteca: La biblioteca se organiza por carpetas que nos proporciona la propia aplicación y o que hemos creado nosotros:
+- My Quizzes: Quedan guardadas las pruebas que compartimos o nos comparten.
+- My Asignments: Se almacenan los archivos que compartimos en asignaciones.
+- Carpetas: podemos gestionar otras carpetas. Un alumno o profesor, puede crear carpetas para ordenar todos los recursos de la biblioteca. También se pueden crear subcarpetas. En el caso del profesor, las carpetas que se crean pueden ser compartidas con uno o más grupos que gestione. En ese caso, el alumno también visualizará las carpetas.
+-Archivos (sueltos fuera de las carpetas). Cualquier archivo puedes descargarse y en algunos casos también previsualizarse \(PDF, Word, imagen, etc\).
+- URL: Acceder a la misma \("Lanzar sitio web"\).
+- Video: posibilidad de visualizarlo en ventana emergente.
 
-URL: Acceder a la misma \("Lanzar sitio web"\).
-
-Video: posibilidad de visualizarlo en ventana emergente.
-
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import18.png)
 
 ##### 5.2 Gestión de mis archivos en la biblioteca
 
-La biblioteca es el espacio personal donde podemos subir archivos y enlaces con la limitación de **100 Mb** por archivo y teniendo en cuenta que la subida no puede ser masiva \(hay que ir uno a uno\). Los recursos se añaden desde el icono "Agregar a la biblioteca" \(Add to Library\). El botón solo aparece al tener seleccionada la pestaña de la Biblioteca \(Library items\).
+La biblioteca es el espacio personal donde podemos subir archivos y enlaces con la limitación de **100 Mb** por archivo y teniendo en cuenta que la subida no puede ser masiva \(hay que ir uno a uno\). Los recursos se añaden desde el icono "Nuevo".
 
-Hay dos maneras de ver las opciones de gestión para un elemento de la biblioteca:
+En la parte central donde encontramos carpetas y elementos, podemos ver su nombre y fecha de modificación.Si en esa misma línea de información de la carpeta o archivo pasamos el ratón más a la derecha vemos que se activa una flecha y al pulsar en ella se abre un desplegable desde el que nos ofrece distintas opciones a realizar con el elemento seleccionado.
 
-1\) Hacer clic en la "flecha hacia abajo" a la derecha de un artículo. Esta aparece al pasar el ratón sobre ella.
+Nota: ¡Puedes seleccionar varios elementos a la vez! Usa las teclas "mayúscula" o "ctrl" o para seleccionar varios elementos.
 
-2\) Hacer clic con el botón derecho del ratón en el elemento. Esto es necesario cuando se seleccionan varios elementos a la vez.
-
-Nota: ¡Puedes seleccionar varios elementos a la vez! Usa las teclas "mayúscula" o "ctrl" o para seleccionar varios elementos. A continuación, haz clic con el botón derecho del ratón en un elemento para ver las opciones de gestión.
-
-Opciones de Carpetas
+**Opciones de Carpetas**
 
 Editar: Cambiar el nombre de cualquier elemento de la biblioteca.
 
@@ -54,9 +53,9 @@ Compartir: Comparte una carpeta con un grupo que selecciones.
 
 Borrar: Eliminar de forma permanente un elemento de la biblioteca. La eliminación de carpetas borra todo el contenido en el interior, así que ¡ten cuidado con esto!
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import19.png)
+![](carpeta.jpg)
 
-Opciones de Elementos
+**Opciones de Elementos**
 
 Las opciones Editar, mover, copiar y borrar son las mismas que para carpetas pero aplicadas al elemento seleccionado. Veamos las opciones específicas:
 
@@ -64,11 +63,9 @@ Adjuntar a Mensaje: Enviar un recurso a tu Grupo directamente desde la Bibliotec
 
 Descargar: Descargar una copia del elemento a tu ordenador
 
-Compartir en Spotlight: Compartir tus recursos con la comunidad de Profesores en Edmodo.
-
 Abrir en Office: Para unos tipos de archivos, los puedes abrir con Office Online para acceder a una manera rápida de editar a realizar tus documentos. Para que esta opción esté disponible debemos conectar la biblioteca de Edmodo a Office 365, como se verá en el siguiente apartado.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import20.png)
+![](archivo.jpg)
 
 ##### 5.3 Conexión con Google Drive e integración Office
 

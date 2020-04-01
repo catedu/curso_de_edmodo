@@ -1,8 +1,8 @@
 # 6 Aplicaciones
-Edmodo dispone de una herramientas y apps que puedes añadir en tu clase
+Edmodo dispone de herramientas y apps que puedes añadir en tu clase
 
 ####¿dónde están?
-Desde 1/1/2020 se están moviendo algunas aplicaciones de **Edmodo Spotlight** https://new.edmodo.com/spotlight/ a **Descubrir Edmodo** https://new.edmodo.com/discover 
+Desde 1/1/2020 se están moviendo algunas aplicaciones de **Edmodo Spotlight** https://new.edmodo.com/spotlight/ a **Descubrir Edmodo** https://new.edmodo.com/discover  \(en la barra del menú superior\)
 
 En los dos sitios puedes encontrar cientos de aplicaciones que pueden completar y facilitar muchas de las tareas que nos propongamos emprender con nuestros alumnos. La gran mayoría de las aplicaciones están realizadas por los propios profesores. Es un lugar para compartir, recopilar, valorar y descubrir recursos útiles para tus estudiantes y para la enseñanza. Hay aplicaciones de pago y gratuitas, aunque actualmente desde España sólo están disponibles las aplicaciones gratuitas.
 
@@ -16,7 +16,7 @@ Entre las más destacadas y útiles figura el **Calendario**, que viene instalad
 
 Para acceder a él sólo debemos clicar en el icono donde figura el calendario, y se nos abrirá en una nueva ventana.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import24.png)
+![](calendario.jpg)
 
 La gran utilidad del calendario es que a la hora de crear eventos podemos compartirlos con los cursos implicados, así en el calendario del alumno aparecerán todas las fechas importantes para él, fechas de exámenes, entregas de trabajos, asignaciones, etc. Tanto el alumno como el profesor disponen de una visión semanal o mensual del calendario.
 
@@ -26,35 +26,37 @@ Veamos como crear un evento:
 
 -Una vez dentro del calendario, clicamos en el símbolo **+** de la parte superior izquierda donde figura Planificador.
 
--En la ventana que se nos abre tenemos la posibilidad de elegir entre tarea o evento. La tarea funciona como recordatorio personal y sólo aparecerá en mi calendario personal. El evento será visible por todos los que yo haya elegido como destinatarios.
+-En la ventana que se nos abre tenemos la posibilidad de elegir entre evento o asignación. El evento será visible por todos los que yo haya elegido como destinatarios.**ATENCIÓN**: con asignación no se refiere a la asignación de tareas sino que este término en el calendario funciona como recordatorio personal y sólo aparecerá en mi calendario personal. 
 
 -Completamos los campos requeridos de título o descripción, fecha y destinatarios y le damos a crear, con lo que nuestro nuevo evento aparecerá en nuestro calendario y en el de los alumnos que hayamos seleccionado. Es importante resaltar que podemos incluir cursos completos, alumnos individuales o profesores con los que estemos conectados.
 
-La creación de una tarea se crea de la misma forma que un evento, con la salvedad de que aquí no hay que asignarla a ninguna clase ni alumno, pues es para nuestro uso personal.
+La creación de una asignación se crea de la misma forma que un evento, con la salvedad de que aquí no hay que asignarla a ninguna clase ni alumno, pues es para nuestro uso personal.
 
-Las asignaciones que vayamos creando se incorporarán automáticamente al calendario.
+Las asignaciones de tareas y pruebas que vayamos creando se incorporarán automáticamente al calendario.
 
-**Tarea**.- Crea varios eventos y comprueba que aparecen en el calendario. Avisa al tutor de que están creados para que los compruebe.
 
 ##6.2 Office Online
 
-Otras dos aplicaciones que viene por defecto en nuestra consola son Snapshot, de la que ya hemos hablado y Office Online. Esta última puede sernos de mucha utilidad ya que nos permite editar documentos de Office directamente online desde la plataforma Edmodo. Cualquier cambio que hagamos en ellos se guardará directamente en la biblioteca.
+Esta aplicación puede sernos de mucha utilidad ya que nos permite editar documentos de Office directamente online desde la plataforma Edmodo. Cualquier cambio que hagamos en ellos se guardará directamente en la biblioteca.
+![](office.jpg)
+
 
 ##6.3 Otras aplicaciones
 
-Para acceder a otras aplicaciones de las que disponemos en Edmodo, debemos clicar en la pestaña Spotlight, donde nos aparecerán todas las aplicaciones disponibles clasificadas por país, nivel, idioma y tema o asignatura como dijimos al principio.
+Para acceder a otras aplicaciones de las que disponemos en Edmodo, podemos ir a **Edmodo Spotlight** https://new.edmodo.com/spotlight/ a **Descubrir Edmodo** https://new.edmodo.com/discover . \(Desde el 1 de enero de 2020 están llevando a cabo un proceso de migración de las aplicaciones de "Spotlight" a "Descubrir", por lo que os recomendamos que por ahora, consultéis ambos enlaces\).
+En la página de Spotlight nos aparecerán las aplicaciones disponibles clasificadas por país, nivel, idioma y tema o asignatura como dijimos al principio.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import27.png)
+![](spotlight.jpg)
 
 Existen aplicaciones de pago, pero desde España sólo están disponibles aquellas que son gratuitas. Estas aplicaciones proceden de EdmodoConnect, pero también de profesores particulares que suben sus propias aplicaciones para compartirlas con el resto de la comunidad educativa.
 
 Una vez que encuentre alguna de mi interés debo fijarme en el tipo de archivo en el que está creada, pdf, Word, enlace,… que aparece en la equina inferior derecha. Puedo asignarla a una clase para que la tengan disponible, guardarla en mi biblioteca o agregarla a mi colección de favoritos.
 
-**Tarea**.- Abre el editor de Word desde la consola de aplicaciones y crea un documento. Comprueba a continuación que está guardado en la biblioteca. Compartelo con tu clase y avisa a al tutor para que compruebe que está correctamente compartido.
+En el apartado "Descubrir" del menú superior de Edmodo también tienes acceso a recursos, juegos, app, publicaciones,...
+![](descubrir.jpg)
 
-**Tarea**.- Investiga un poco las aplicaciones por el tema o temas que más te interesen e instala alguna de ellas para probarlas. Asígnala a la clase que tienes creada y avisa al tutor para su comprobación.
 
-## 6.4 Aplicaciones Edmodo Conect
+## 6.4 Aplicaciones Edmodo Connect
 
 Edmodo Connect permite a los profesores y estudiantes conectarse a aplicaciones de terceros \(aplicaciones móviles y sitios web creados por otras empresas\) utilizando sus datos de acceso a Edmodo \(usuario y contraseña\). Con Edmodo Connect, los profesores y alumnos pueden acceder a múltiples contenidos utilizando la identificación en Edmodo y eliminando la necesidad de administrar una serie de identificadores en cada aplicación. Acceder a las aplicaciones de Edmodo Connect se puede realizar a través de Spotlight. A continuación, incluyo una lista de algunas de las aplicaciones de terceros más populares y su descripción que han habilitado en Edmodo Connect.
 
@@ -84,13 +86,11 @@ Está revolucionando el vídeo en línea para la educación. Los profesores, los
 
 ##6.5 Como asigno una APP a mi clase
 
-Entramos en Spotlight
-
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import27.png)
+Entramos en Spotlight \(https://new.edmodo.com/spotlight/\)
 
 Y seleccionamos por ejemplo, EdPuzzle:
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edpuzzle1.jpg)
+![](spotlight1.jpg)
 
 Vemos que podemos hacer:
 
@@ -101,19 +101,20 @@ Vemos que podemos hacer:
 
 Vamos a decidir Agregar a la biblioteca:
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edpuzzle2.jpg)
+![](edpuzzle.jpg)
 
 Vamos a nuestra clase, y creamos un nuevo mensaje con un recurso desde nuestra biblioteca:
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edpuzzle-edmodo.jpg)
+![](publicaciones.jpg)
 
 Elegimos el Edpuzzle que hemos incorporado a nuestra biblioteca
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/EdPuzzle4.jpg)
+![](agregar edpuzzle.jpg)
 
 De esta manera invitamos a los alumnos a usar y experimentar EdPuzzle. Así queda en clase:
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edmodo15.jpg)
+![](publicar edpuzzle.jpg)
+
 
 ##6.6 No quiero que los alumnos usen de manera genérica una App sino quiero que usen un recurso concreto de esa App
 
@@ -151,10 +152,9 @@ Pues depende... según nuestro criterio (totalmente criticable), si entramos en 
 * *Juegos, experimentación, etc.. * entonces lo que interesa es compartir ese recurso para que nuestros alumnos lo experimenten, por ejemplo en la siguiente imagen los tres primeros. Entonces **lo recomendable es utilizar el método 6.5 compartir el recurso**.
 * *Repositorios genéricos* de contenidos como el que hemos visto EdPuzzle, entonces ** lo recomendable es 6.6 compartir un enlace específico de ese repositorio** pues queremos que no se dispersen sino que visiten un contenido específico (en el ejemplo 6.6 anterior ese vídeo concreto de Arduino).
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/edpuzzle1.jpg)
 
 ##6.8.- Me ha gustado eso de compartir contenidos, pero... ¿Puedo crear uno y compartirlo en vez de compartir uno creado por otra persona?
-Si, por supuesto pero se va de los objetivos de este curso. Por ejemplo si te interesa crear un recurso en **EDPuzzle** te recomendamos que visites:  https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/edpuzzle.html
+Sí, por supuesto pero se va de los objetivos de este curso. Por ejemplo si te interesa crear un recurso en **EDPuzzle** te recomendamos que visites:  https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/edpuzzle.html
 
 
 

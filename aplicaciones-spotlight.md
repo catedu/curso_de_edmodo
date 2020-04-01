@@ -117,7 +117,7 @@ De esta manera invitamos a los alumnos a usar y experimentar EdPuzzle. Así qued
 ![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/publicar_edpuzzle.JPG)
 
 
-##6.6 No quiero que los alumnos usen de manera genérica una App sino quiero que usen un recurso concreto de esa App
+## 6.6 No quiero que los alumnos usen de manera genérica una App sino quiero que usen un recurso concreto de esa App
 
 Es lo más frecuente, es decir yo encuentro un contenido interesante en cualquier página, y quiero que mis alumnos lo utilicen. Por ejemplo entro en https://edpuzzle.com busco por ejemplo *Arduino* encuentro un contenido interesante que quiero que lo vean mis alumnos, luego pulso en *ver*
 
@@ -145,7 +145,8 @@ Y así lo ven los alumnos:
 
 >**Consejo**: En estos casos que queremos que hagan una actividad concreta, recomendamos en vez de **Mensaje** hacerlo como **Asignación** la diferencia es que se hace un seguimiento y se asigna una fecha límite, con lo cual podemos ver quien ha visitado el enlace y quien no.
 
-##6.7.- ¿Cuando utilizamos un método u otro?
+## 6.7.- ¿Cuando utilizamos un método u otro?
+
 Es decir, cuando interesa que utilicemos compartir un recurso en la biblioteca de Spotlight o cuando interesa asignar un recurso concreto de Spotlight
 
 Pues depende... según nuestro criterio (totalmente criticable), si entramos en Spotlight vemos que hay aplicaciones tipo :

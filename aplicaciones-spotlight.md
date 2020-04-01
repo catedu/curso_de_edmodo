@@ -11,6 +11,8 @@ Estas aplicaciones podemos elegirlas por país, nivel, idioma y tema o actividad
 
 ![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import23.png)
 
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/calendario4.JPG)
+
 Entre las más destacadas y útiles figura el **Calendario**, que viene instalada por defecto y podemos encontrar en la parte derecha de la pantalla. Vamos a verla con mayor profundidad.
 
 ## 6.1 Calendario

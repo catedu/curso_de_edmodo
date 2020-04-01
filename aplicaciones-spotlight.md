@@ -1,7 +1,8 @@
 # 6 Aplicaciones
 Edmodo dispone de herramientas y apps que puedes añadir en tu clase
 
-####¿dónde están?
+#### ¿Dónde están?
+
 Desde 1/1/2020 se están moviendo algunas aplicaciones de **Edmodo Spotlight** https://new.edmodo.com/spotlight/ a **Descubrir Edmodo** https://new.edmodo.com/discover  \(en la barra del menú superior\)
 
 En los dos sitios puedes encontrar cientos de aplicaciones que pueden completar y facilitar muchas de las tareas que nos propongamos emprender con nuestros alumnos. La gran mayoría de las aplicaciones están realizadas por los propios profesores. Es un lugar para compartir, recopilar, valorar y descubrir recursos útiles para tus estudiantes y para la enseñanza. Hay aplicaciones de pago y gratuitas, aunque actualmente desde España sólo están disponibles las aplicaciones gratuitas.
@@ -16,7 +17,7 @@ Entre las más destacadas y útiles figura el **Calendario**, que viene instalad
 
 Para acceder a él sólo debemos clicar en el icono donde figura el calendario, y se nos abrirá en una nueva ventana.
 
-![](calendario.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/calendario.JPG)
 
 La gran utilidad del calendario es que a la hora de crear eventos podemos compartirlos con los cursos implicados, así en el calendario del alumno aparecerán todas las fechas importantes para él, fechas de exámenes, entregas de trabajos, asignaciones, etc. Tanto el alumno como el profesor disponen de una visión semanal o mensual del calendario.
 
@@ -38,7 +39,7 @@ Las asignaciones de tareas y pruebas que vayamos creando se incorporarán autom�
 ##6.2 Office Online
 
 Esta aplicación puede sernos de mucha utilidad ya que nos permite editar documentos de Office directamente online desde la plataforma Edmodo. Cualquier cambio que hagamos en ellos se guardará directamente en la biblioteca.
-![](office.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/office.JPG)
 
 
 ##6.3 Otras aplicaciones
@@ -46,14 +47,14 @@ Esta aplicación puede sernos de mucha utilidad ya que nos permite editar docume
 Para acceder a otras aplicaciones de las que disponemos en Edmodo, podemos ir a **Edmodo Spotlight** https://new.edmodo.com/spotlight/ a **Descubrir Edmodo** https://new.edmodo.com/discover . \(Desde el 1 de enero de 2020 están llevando a cabo un proceso de migración de las aplicaciones de "Spotlight" a "Descubrir", por lo que os recomendamos que por ahora, consultéis ambos enlaces\).
 En la página de Spotlight nos aparecerán las aplicaciones disponibles clasificadas por país, nivel, idioma y tema o asignatura como dijimos al principio.
 
-![](spotlight.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/spotlight.JPG)
 
 Existen aplicaciones de pago, pero desde España sólo están disponibles aquellas que son gratuitas. Estas aplicaciones proceden de EdmodoConnect, pero también de profesores particulares que suben sus propias aplicaciones para compartirlas con el resto de la comunidad educativa.
 
 Una vez que encuentre alguna de mi interés debo fijarme en el tipo de archivo en el que está creada, pdf, Word, enlace,… que aparece en la equina inferior derecha. Puedo asignarla a una clase para que la tengan disponible, guardarla en mi biblioteca o agregarla a mi colección de favoritos.
 
 En el apartado "Descubrir" del menú superior de Edmodo también tienes acceso a recursos, juegos, app, publicaciones,...
-![](descubrir.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir.JPG)
 
 
 ## 6.4 Aplicaciones Edmodo Connect
@@ -90,7 +91,7 @@ Entramos en Spotlight \(https://new.edmodo.com/spotlight/\)
 
 Y seleccionamos por ejemplo, EdPuzzle:
 
-![](spotlight1.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/spotlight1.JPG)
 
 Vemos que podemos hacer:
 
@@ -101,19 +102,19 @@ Vemos que podemos hacer:
 
 Vamos a decidir Agregar a la biblioteca:
 
-![](edpuzzle.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/edpuzzle.JPG)
 
 Vamos a nuestra clase, y creamos un nuevo mensaje con un recurso desde nuestra biblioteca:
 
-![](publicaciones.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/publicaciones.JPG)
 
 Elegimos el Edpuzzle que hemos incorporado a nuestra biblioteca
 
-![](agregar edpuzzle.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/agregar_edpuzzle.JPG)
 
 De esta manera invitamos a los alumnos a usar y experimentar EdPuzzle. Así queda en clase:
 
-![](publicar edpuzzle.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/publicar_edpuzzle.JPG)
 
 
 ##6.6 No quiero que los alumnos usen de manera genérica una App sino quiero que usen un recurso concreto de esa App

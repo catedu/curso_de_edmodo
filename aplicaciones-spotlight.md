@@ -1,17 +1,5 @@
 # 6 Aplicaciones
-Edmodo dispone de herramientas y apps que puedes añadir en tu clase
-
-#### ¿Dónde están?
-
-Desde 1/1/2020 se están moviendo algunas aplicaciones de **Edmodo Spotlight** https://new.edmodo.com/spotlight/ a **Descubrir Edmodo** https://new.edmodo.com/discover  \(en la barra del menú superior\)
-
-En los dos sitios puedes encontrar cientos de aplicaciones que pueden completar y facilitar muchas de las tareas que nos propongamos emprender con nuestros alumnos. La gran mayoría de las aplicaciones están realizadas por los propios profesores. Es un lugar para compartir, recopilar, valorar y descubrir recursos útiles para tus estudiantes y para la enseñanza. Hay aplicaciones de pago y gratuitas, aunque actualmente desde España sólo están disponibles las aplicaciones gratuitas.
-
-Estas aplicaciones podemos elegirlas por país, nivel, idioma y tema o actividad que nos interese.
-
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import23.png)
-
-Entre las más destacadas y útiles figura el **Calendario**, que viene instalada por defecto y podemos encontrar en la parte derecha de la pantalla. Vamos a verla con mayor profundidad.
+Edmodo dispone de herramientas y apps que puedes utilizar y/o añadir en tu clase
 
 ## 6.1 Calendario
 
@@ -44,71 +32,49 @@ Esta aplicación puede sernos de mucha utilidad ya que nos permite editar docume
 
 ##6.3 Otras aplicaciones
 
-Para acceder a otras aplicaciones de las que disponemos en Edmodo, podemos ir a **Edmodo Spotlight** https://new.edmodo.com/spotlight/ a **Descubrir Edmodo** https://new.edmodo.com/discover . \(Desde el 1 de enero de 2020 están llevando a cabo un proceso de migración de las aplicaciones de "Spotlight" a "Descubrir", por lo que os recomendamos que por ahora, consultéis ambos enlaces\).
-En la página de Spotlight nos aparecerán las aplicaciones disponibles clasificadas por país, nivel, idioma y tema o asignatura como dijimos al principio.
+Para acceder a otras aplicaciones, Edmodo disponía de una web en la que se podían seleccionar por país, nivel, idioma, asingatura,... pero desde 1/1/2020 se están moviendo las aplicaciones de **Edmodo Spotlight** https://new.edmodo.com/spotlight/ a **Descubrir Edmodo** https://new.edmodo.com/discover  \(en la barra del menú superior\)
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/spotlight.JPG)
+De hecho, actualmente ya no está disponible la página de Spotlight. En **"Descubrir"** se pueden encontrar algunas aplicaciones, pero con una oferta menor a la que existía en Spotlight, aunque se entiende que se irá enriqueciendo progresivamente. 
 
-Existen aplicaciones de pago, pero desde España sólo están disponibles aquellas que son gratuitas. Estas aplicaciones proceden de EdmodoConnect, pero también de profesores particulares que suben sus propias aplicaciones para compartirlas con el resto de la comunidad educativa.
+En "Descubrir" podemos encontrar colecciones, juegos, app y noticias.
+
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir.JPG)
 
 Una vez que encuentre alguna de mi interés debo fijarme en el tipo de archivo en el que está creada, pdf, Word, enlace,… que aparece en la equina inferior derecha. Puedo asignarla a una clase para que la tengan disponible, guardarla en mi biblioteca o agregarla a mi colección de favoritos.
 
-En el apartado "Descubrir" del menú superior de Edmodo también tienes acceso a recursos, juegos, app, publicaciones,...
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir.JPG)
 
+##6.4 Como asigno una APP a mi clase
 
-## 6.4 Aplicaciones Edmodo Connect
+Entramos en Descubrir y seleccionamos la aplicación que nos interese, por ejemplo, GeoGebra:
 
-Edmodo Connect permite a los profesores y estudiantes conectarse a aplicaciones de terceros \(aplicaciones móviles y sitios web creados por otras empresas\) utilizando sus datos de acceso a Edmodo \(usuario y contraseña\). Con Edmodo Connect, los profesores y alumnos pueden acceder a múltiples contenidos utilizando la identificación en Edmodo y eliminando la necesidad de administrar una serie de identificadores en cada aplicación. Acceder a las aplicaciones de Edmodo Connect se puede realizar a través de Spotlight. A continuación, incluyo una lista de algunas de las aplicaciones de terceros más populares y su descripción que han habilitado en Edmodo Connect.
-
-_PlayPosit_
-
-Es una herramienta gratuita para integrar preguntas con explicaciones dentro de un video. Da a los profesores una herramienta para adecuar el contenido en línea existente a las necesidades de sus estudiantes y entregarlo a través de un medio que está diseñado para el aprendizaje.
-
-_EDpuzzle_
-
-Permite a los profesores personalizar los videos en Internet añadiendo sus propias locuciones e insertando preguntas.
-
-_Drillster_
-
-Es una aplicación de aprendizaje y test interactiva. Drillster recuerda lo que cada usuario ha memorizado, qué respuestas correctas e incorrectas ha dado y cuándo un usuario ha practicado por última vez cierto material de aprendizaje. Esta información determina el orden y la frecuencia en que se practican y se repiten los ítems. El resultado es que los alumnos aprenden más en menos tiempo y recuerdan el material de aprendizaje por un período de tiempo mucho más largo.
-
-_Literatu_
-
-Es una aplicación en la nube que permite a cada profesor transformar recursos educativos de confianza en increíbles actividades interactivas y evaluaciones en línea. Usando Literatu, los profesores involucran mejor a los estudiantes, racionalizan la calificación y tienen acceso inmediato a datos reveladores del rendimiento de los estudiantes y del aula en directo.
-
-_Tackk_
-
-Permite a cualquiera publicar rápidamente cualquier cosa con una sola página. No hay software que descargar, no se necesita iniciar sesión y no se necesitan conocimientos especiales de diseño o desarrollo.
-
-_Zaption_
-
-Está revolucionando el vídeo en línea para la educación. Los profesores, los formadores y los editores de contenido utilizan la aplicación web intuitiva de Zaption para agregar rápidamente imágenes, textos, cuestionarios y discusiones a videos existentes de YouTube, Vimeo y bibliotecas de vídeo privadas. El resultado es un aprendizaje interactivo que transforma el video de una actividad pasiva a una atractiva experiencia activa. Con la analítica de Zaption, los profesores obtienen retroalimentación inmediata sobre cómo los estudiantes interactúan con el contenido y entienden los conceptos clave.
-
-##6.5 Como asigno una APP a mi clase
-
-Entramos en Spotlight \(https://new.edmodo.com/spotlight/\)
-
-Y seleccionamos por ejemplo, EdPuzzle:
-
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/spotlight1.JPG)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir1.jpg)
 
 Vemos que podemos hacer:
 
 * Usar App es decir usar esta aplicación diréctamente saltando a la página propia de esta aplicación.
-* **Agregarlo a nuestra biblioteca** es la que vemos más interesante
-* *colección particular* que entraría a formar parte de nuestros favoritos
-* Asignar *App al grupo*, y lo que pasaría es que los alumnos de la clase lo tendrían en su biblioteca particular.
+* **Guardar** de forma que nos agregaría la app a nuestra biblioteca, es la que vemos más interesante
+* **Compartir** la app a la clase, grupo,...  y lo que pasaría es que los alumnos de la clase lo tendrían en la página de la clase.
+Esto se puede realizar desde la página en la que se nos presenta ese recurso junto a los demás o desde la propia página del recurso:
 
-Vamos a decidir Agregar a la biblioteca:
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/edpuzzle.JPG)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir2.jpg)
 
-Vamos a nuestra clase, y creamos un nuevo mensaje con un recurso desde nuestra biblioteca:
+
+Vamos a decidir Guardar en la biblioteca. Automáticamente lo agrega a la carpeta "My saved items", 
+
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/bibliotecapp.JPG)
+
+Para compartir este recurso hay dos caminos:
+
+**1)** Podemos buscar el recurso en la bilbioteca y en el desplegable de la derecha elegir la opción "Adjuntar a mensaje" poniendo en "enviar a" el grupo o clase con el que lo queremos compartir.
+
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/app.JPG)
+
+**2)** Vamos a nuestra clase, y creamos un nuevo mensaje con un recurso desde nuestra biblioteca:
 
 ![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/publicaciones.JPG)
 
-Elegimos el Edpuzzle que hemos incorporado a nuestra biblioteca
+Elegimos en esta ocasión elegimos Edpuzzle que hemos incorporado previamente a nuestra biblioteca
 
 ![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/agregar_edpuzzle.JPG)
 
@@ -117,7 +83,7 @@ De esta manera invitamos a los alumnos a usar y experimentar EdPuzzle. Así qued
 ![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/publicar_edpuzzle.JPG)
 
 
-## 6.6 No quiero que los alumnos usen de manera genérica una App sino quiero que usen un recurso concreto de esa App
+## 6.5 No quiero que los alumnos usen de manera genérica una App sino quiero que usen un recurso concreto de esa App
 
 Es lo más frecuente, es decir yo encuentro un contenido interesante en cualquier página, y quiero que mis alumnos lo utilicen. Por ejemplo entro en https://edpuzzle.com busco por ejemplo *Arduino* encuentro un contenido interesante que quiero que lo vean mis alumnos, luego pulso en *ver*
 
@@ -145,17 +111,18 @@ Y así lo ven los alumnos:
 
 >**Consejo**: En estos casos que queremos que hagan una actividad concreta, recomendamos en vez de **Mensaje** hacerlo como **Asignación** la diferencia es que se hace un seguimiento y se asigna una fecha límite, con lo cual podemos ver quien ha visitado el enlace y quien no.
 
-## 6.7.- ¿Cuando utilizamos un método u otro?
 
-Es decir, cuando interesa que utilicemos compartir un recurso en la biblioteca de Spotlight o cuando interesa asignar un recurso concreto de Spotlight
+## 6.6.- ¿Cuando utilizamos un método u otro?
 
-Pues depende... según nuestro criterio (totalmente criticable), si entramos en Spotlight vemos que hay aplicaciones tipo :
+Es decir, cuando interesa que utilicemos compartir un recurso en la biblioteca de Descubrir o cuando interesa asignar un recurso concreto de Descubrir
 
-* *Juegos, experimentación, etc.. * entonces lo que interesa es compartir ese recurso para que nuestros alumnos lo experimenten, por ejemplo en la siguiente imagen los tres primeros. Entonces **lo recomendable es utilizar el método 6.5 compartir el recurso**.
-* *Repositorios genéricos* de contenidos como el que hemos visto EdPuzzle, entonces ** lo recomendable es 6.6 compartir un enlace específico de ese repositorio** pues queremos que no se dispersen sino que visiten un contenido específico (en el ejemplo 6.6 anterior ese vídeo concreto de Arduino).
+Pues depende... según nuestro criterio (totalmente criticable), si entramos en Descubrir vemos que hay aplicaciones tipo :
+
+* *Juegos, experimentación, etc.. * entonces lo que interesa es compartir ese recurso para que nuestros alumnos lo experimenten, por ejemplo en la siguiente imagen los tres primeros. Entonces **lo recomendable es utilizar el método 6.4 compartir el recurso**.
+* *Repositorios genéricos* de contenidos como el que hemos visto EdPuzzle, entonces ** lo recomendable es 6.5 compartir un enlace específico de ese repositorio** pues queremos que no se dispersen sino que visiten un contenido específico (en el ejemplo 6.5 anterior ese vídeo concreto de Arduino).
 
 
-##6.8.- Me ha gustado eso de compartir contenidos, pero... ¿Puedo crear uno y compartirlo en vez de compartir uno creado por otra persona?
+##6.7.- Me ha gustado eso de compartir contenidos, pero... ¿Puedo crear uno y compartirlo en vez de compartir uno creado por otra persona?
 Sí, por supuesto pero se va de los objetivos de este curso. Por ejemplo si te interesa crear un recurso en **EDPuzzle** te recomendamos que visites:  https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/edpuzzle.html
 
 

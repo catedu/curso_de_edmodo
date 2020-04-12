@@ -24,13 +24,13 @@ La creación de una asignación se crea de la misma forma que un evento, con la 
 Las asignaciones de tareas y pruebas que vayamos creando se incorporarán automáticamente al calendario.
 
 
-##6.2 Office Online
+## 6.2 Office Online
 
 Esta aplicación puede sernos de mucha utilidad ya que nos permite editar documentos de Office directamente online desde la plataforma Edmodo. Cualquier cambio que hagamos en ellos se guardará directamente en la biblioteca.
 ![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/office.JPG)
 
 
-##6.3 Otras aplicaciones
+## 6.3 Otras aplicaciones
 
 Para acceder a otras aplicaciones, Edmodo disponía de una web en la que se podían seleccionar por país, nivel, idioma, asingatura,... pero desde 1/1/2020 se están moviendo las aplicaciones de **Edmodo Spotlight** https://new.edmodo.com/spotlight/ a **Descubrir Edmodo** https://new.edmodo.com/discover  \(en la barra del menú superior\)
 
@@ -43,7 +43,7 @@ En "Descubrir" podemos encontrar colecciones, juegos, app y noticias.
 Una vez que encuentre alguna de mi interés debo fijarme en el tipo de archivo en el que está creada, pdf, Word, enlace,… que aparece en la equina inferior derecha. Puedo asignarla a una clase para que la tengan disponible, guardarla en mi biblioteca o agregarla a mi colección de favoritos.
 
 
-##6.4 Como asigno una APP a mi clase
+## 6.4 Como asigno una APP a mi clase
 
 Entramos en Descubrir y seleccionamos la aplicación que nos interese, por ejemplo, GeoGebra:
 

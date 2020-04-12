@@ -11,8 +11,6 @@ Estas aplicaciones podemos elegirlas por país, nivel, idioma y tema o actividad
 
 ![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import23.png)
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/calendario4.JPG)
-
 Entre las más destacadas y útiles figura el **Calendario**, que viene instalada por defecto y podemos encontrar en la parte derecha de la pantalla. Vamos a verla con mayor profundidad.
 
 ## 6.1 Calendario
@@ -23,7 +21,7 @@ Para acceder a él sólo debemos clicar en el icono donde figura el calendario, 
 
 La gran utilidad del calendario es que a la hora de crear eventos podemos compartirlos con los cursos implicados, así en el calendario del alumno aparecerán todas las fechas importantes para él, fechas de exámenes, entregas de trabajos, asignaciones, etc. Tanto el alumno como el profesor disponen de una visión semanal o mensual del calendario.
 
-![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import25.png)![](https://raw.githubusercontent.com/catedu/curso_de_edmodo/master/assets/import26.png)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/calendario4.JPG)
 
 Veamos como crear un evento:
 

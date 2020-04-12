@@ -47,7 +47,7 @@ Una vez que encuentre alguna de mi interés debo fijarme en el tipo de archivo e
 
 Entramos en Descubrir y seleccionamos la aplicación que nos interese, por ejemplo, GeoGebra:
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir1.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir1.JPG)
 
 Vemos que podemos hacer:
 
@@ -57,7 +57,7 @@ Vemos que podemos hacer:
 Esto se puede realizar desde la página en la que se nos presenta ese recurso junto a los demás o desde la propia página del recurso:
 
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir2.jpg)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir2.JPG)
 
 
 Vamos a decidir Guardar en la biblioteca. Automáticamente lo agrega a la carpeta "My saved items", 

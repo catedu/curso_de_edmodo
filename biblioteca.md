@@ -2,7 +2,8 @@ La** biblioteca de Edmodo** es un lugar donde van a estar recogidos todos los ar
 
 El acceso a la biblioteca se hace a través del botón del menú superior:
 
-Git![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/biblioteca0.jpg)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/biblioteca0.jpg)
+
 ##### 5.1 ¿Qué hay en la biblioteca?
 
 Al acceder a la biblioteca, esto es lo que nos vamos a encontrar:

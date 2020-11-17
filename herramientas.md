@@ -6,7 +6,7 @@ La plataforma Edmodo es básicamente una plataforma de comunicación con nuestro
 
 Vamos a detallar cada una de ellas:
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/posibilidades.JPG)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/posibilidades0.JPG)
 
 -**Publicaciones**. Nos sugiere iniciar una discusión, compartir materiales... Esta función nos permite comunicar una idea, noticia, recordatorio,… No sólo a través de texto, sino que es posible adjuntar enlaces, archivos, archivos de nuestra biblioteca y programarla para que se publique en el día y hora que a ti te interese. Es importante resaltar que podemos darle formato al texto siguiendo los códigos que nos indica en el menú desplegable. Además, desde esta ventana nos permite crear encuestas y consultas sobre el bienestar de las personas que pertenecen a la clase, como explicaremos más adelante.
 

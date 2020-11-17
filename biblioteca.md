@@ -2,13 +2,13 @@ La** biblioteca de Edmodo** es un lugar donde van a estar recogidos todos los ar
 
 El acceso a la biblioteca se hace a través del botón del menú superior:
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/biblioteca.JPG)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/biblioteca0.JPG)
 
 ##### 5.1 ¿Qué hay en la biblioteca?
 
 Al acceder a la biblioteca, esto es lo que nos vamos a encontrar:
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/biblioteca2.JPG)
+![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/biblioteca20.JPG)
 
 **Menú izquierdo:** Nos acceso a los 3 almacenes a los que podemos tener disponibles: Biblioteca - One Drive - Google Drive.
 

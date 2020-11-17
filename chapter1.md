@@ -6,11 +6,11 @@ Además esta plataforma se caracteriza por la facilidad de uso tanto para los pr
 
 Como valor añadido cuenta con un grupo de expertos en varios idiomas y una amplia red de profesorado que utiliza esta plataforma y comparte ideas, recursos y aclara dudas sobre su funcionamiento y continuas mejoras y novedades que se van incluyendo curso tras curso.
 
-# ![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/import.png)
+# ![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/import.png)
 
 También es posible utilizarla como un método rápido y eficaz de comunicación con los padres, que en todo momento conocerán el progreso de sus hijos, las tareas que tienen pendientes o entregadas asi como los documentos que los profesores han compartido con ellos. El profesor puede comunicarse también directamente con los padres a través de la plataforma cuando lo crea conveniente.
 
 A todo ello hay que unir el componente motivador e integrador que supone la utilización de las nuevas tecnologías en la vida cotidiana de nuestros alumnos.
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/inicio_edmodo.jpeg)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/inicio_edmodo.jpeg)
 

@@ -2,13 +2,12 @@ La** biblioteca de Edmodo** es un lugar donde van a estar recogidos todos los ar
 
 El acceso a la biblioteca se hace a través del botón del menú superior:
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/biblioteca0.JPG)
-
+Git![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/biblioteca0.jpg)
 ##### 5.1 ¿Qué hay en la biblioteca?
 
 Al acceder a la biblioteca, esto es lo que nos vamos a encontrar:
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/biblioteca20.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/biblioteca20.JPG)
 
 **Menú izquierdo:** Nos acceso a los 3 almacenes a los que podemos tener disponibles: Biblioteca - One Drive - Google Drive.
 
@@ -53,7 +52,7 @@ Compartir: Comparte una carpeta con un grupo que selecciones.
 
 Borrar: Eliminar de forma permanente un elemento de la biblioteca. La eliminación de carpetas borra todo el contenido en el interior, así que ¡ten cuidado con esto!
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/carpeta.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/carpeta.JPG)
 
 **Opciones de Elementos**
 
@@ -65,7 +64,7 @@ Descargar: Descargar una copia del elemento a tu ordenador
 
 Abrir en Office: Para unos tipos de archivos, los puedes abrir con Office Online para acceder a una manera rápida de editar a realizar tus documentos. Para que esta opción esté disponible debemos conectar la biblioteca de Edmodo a Office 365, como se verá en el siguiente apartado.
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/archivo.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/archivo.JPG)
 
 ##### 5.3 Conexión con Google Drive e integración Office
 

@@ -5,11 +5,11 @@ Edmodo dispone de herramientas y apps que puedes utilizar y/o añadir en tu clas
 
 Para acceder a él sólo debemos clicar en el icono donde figura el calendario, y se nos abrirá en una nueva ventana.
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/calendario.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/calendario.JPG)
 
 La gran utilidad del calendario es que a la hora de crear eventos podemos compartirlos con los cursos implicados, así en el calendario del alumno aparecerán todas las fechas importantes para él, fechas de exámenes, entregas de trabajos, asignaciones, etc. Tanto el alumno como el profesor disponen de una visión semanal o mensual del calendario.
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/calendario4.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/calendario4.JPG)
 
 Veamos como crear un evento:
 
@@ -27,7 +27,7 @@ Las asignaciones de tareas y pruebas que vayamos creando se incorporarán autom�
 ## 6.2 Office Online
 
 Esta aplicación puede sernos de mucha utilidad ya que nos permite editar documentos de Office directamente online desde la plataforma Edmodo. Cualquier cambio que hagamos en ellos se guardará directamente en la biblioteca.
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/office.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/office.JPG)
 
 
 ## 6.3 Otras aplicaciones
@@ -38,7 +38,7 @@ De hecho, actualmente ya no está disponible la página de Spotlight. En **"Desc
 
 En "Descubrir" podemos encontrar colecciones, juegos, app y noticias.
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/descubrir.JPG)
 
 Una vez que encuentre alguna de mi interés debo fijarme en el tipo de archivo en el que está creada, pdf, Word, enlace,… que aparece en la equina inferior derecha. Puedo asignarla a una clase para que la tengan disponible, guardarla en mi biblioteca o agregarla a mi colección de favoritos.
 
@@ -47,7 +47,7 @@ Una vez que encuentre alguna de mi interés debo fijarme en el tipo de archivo e
 
 Entramos en Descubrir y seleccionamos la aplicación que nos interese, por ejemplo, GeoGebra:
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir1.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/descubrir1.JPG)
 
 Vemos que podemos hacer:
 
@@ -57,30 +57,30 @@ Vemos que podemos hacer:
 Esto se puede realizar desde la página en la que se nos presenta ese recurso junto a los demás o desde la propia página del recurso:
 
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/descubrir2.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/descubrir2.JPG)
 
 
 Vamos a decidir Guardar en la biblioteca. Automáticamente lo agrega a la carpeta "My saved items", 
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/bibliotecapp.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/bibliotecapp.JPG)
 
 Para compartir este recurso hay dos caminos:
 
 **1)** Podemos buscar el recurso en la bilbioteca y en el desplegable de la derecha elegir la opción "Adjuntar a mensaje" poniendo en "enviar a" el grupo o clase con el que lo queremos compartir.
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/app.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/app.JPG)
 
 **2)** Vamos a nuestra clase, y creamos un nuevo mensaje con un recurso desde nuestra biblioteca:
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/publicaciones.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/publicaciones.JPG)
 
 Elegimos en esta ocasión elegimos Edpuzzle que hemos incorporado previamente a nuestra biblioteca
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/agregar_edpuzzle.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/agregar_edpuzzle.JPG)
 
 De esta manera invitamos a los alumnos a usar y experimentar EdPuzzle. Así queda en clase:
 
-![](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/publicar_edpuzzle.JPG)
+![](https://github.com/catedu/curso_de_edmodo/raw/gh-pages/assets/publicar_edpuzzle.JPG)
 
 
 ## 6.5 No quiero que los alumnos usen de manera genérica una App sino quiero que usen un recurso concreto de esa App

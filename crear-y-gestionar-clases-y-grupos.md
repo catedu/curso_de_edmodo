@@ -73,7 +73,7 @@ Si queremos eliminar una clase, entramos en **configuración avanzada**:
 
 entrando en **borrar**
 
-![Borrando una clase](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/borrando_clase_2.jpeg)
+![Borrando una clase](https://catedu.gitbooks.io/curso-de-edmodo/content/assets/borrando_clase_20.jpeg)
 
 # GRUPOS
 

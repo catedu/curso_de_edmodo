@@ -123,7 +123,7 @@ Pues depende... según nuestro criterio (totalmente criticable), si entramos en 
 
 
 ##6.7.- Me ha gustado eso de compartir contenidos, pero... ¿Puedo crear uno y compartirlo en vez de compartir uno creado por otra persona?
-Sí, por supuesto pero se va de los objetivos de este curso. Por ejemplo si te interesa crear un recurso en **EDPuzzle** te recomendamos que visites:  https://catedu.gitbooks.io/aprendizaje-colaborativo-con-blog/content/edpuzzle.html
+Sí, por supuesto pero se va de los objetivos de este curso. Por ejemplo si te interesa crear un recurso en **EDPuzzle** te recomendamos que visites:  https://catedu.github.io/aprendizaje-colaborativo-con-blog/edpuzzle.html
 
 
 
